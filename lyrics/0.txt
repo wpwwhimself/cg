@@ -1,0 +1,160 @@
+To jest samouczek pisania Ładnych Tekstów™ dla Targu Czarnych Gruszek
+Obserwuj, jak poszczególne linie są interpretowane przez program
+=
+Na dzień dobry zauważ dwie rzeczy:
+1 – wszystko, co do tej pory zostało napisane, wyświetla się na szaro. To jest tekst komentarza i będzie wypisywany, jeśli nie ma nic ładniejszego do użycia.
+2 – tekst komentarza nie zwraca uwagi na
+podziały
+linii.
+=
+Żeby zrobić coś ładnego, musisz poznać Uruchamiacze. Są to te znaki:
+► $ — blok tekstu,
+► * — komentarz,
+► = — separator,
+► @ — schemat wielogłosowości,
+► % — zapis nutowy,
+► # — koniec dokumentu.
+Zacznijmy zatem je omawiać po kolei.
+=$
+$
+To jest blok tekstu
+Zacznij linijkę od $, a wszystkie kolejne wiersze się w nim znajdą
+tak długo, aż nie natrafią na inny Uruchamiacz na początku linii
+@000, czyli "małpa", jest tu wyjątkiem
+$B
+Blokom tekstu możesz nadać nazwę (inicjał), pisząc jakikolwiek wyraz (literę) po $.
+Najlepiej, żeby to była jedna lub dwie litery, ale
+$GGG
+jak widać obok, może być ich więcej.
+Choć nie polecam, bo tekst się rozjeżdża
+$
+Jeśli nie dodasz nazwy bloku, ten domyślnie przyczepi się do poprzedniego.
+Są odstępstwa od tego, ale Tobie wystarczy wiedzieć, że
+w ten sposób można dzielić zwrotki na części
+oraz wyróżniać akapity w blokach tekstu.
+$Ra
+Jeśli nazwa zacznie się od wielkiego "R", blok zrobi się czerwony, bo to refren. Dodatkowo bloki refrenu zawsze zostają widoczne, nawet przy przewijaniu.
+$
+Bloki bez nazwy następujące po refrenie również będą traktowane jako bloki refrenu.
+$C w1
+Jeżeli po nazwie bloku zrobisz spację i napiszesz modyfikator,
+wtedy do bloku dopisze się jakiś ozdobnik. (jak tutaj)
+$ w2
+Każdy blok tekstu, nazwany czy nie, dysponuje własnymi ozdobnikami.
+Masz tu kilka możliwości:
+$ x3
+wielokrotności zwrotki (x2, x3, x4)
+$ w3
+kolorowe kreski oznaczające, kto śpiewa (w1, w2, w3)
+$ x4 w3
+Można też łączyć jedno z drugim, jeśli zajdzie taka potrzeba.
+$Rb w1 x2
+Oczywiście bloki refrenu
+również mogą mieć ozdobniki
+$ x3
+Jakkolwiek nie zechcesz
+ich ustawić
+$D
+Przy blokach tekstu należy też wspomnieć o schematach wielogłosowości
+wyglądają one tak: @120 i służą do pokazania, kto jaki głos śpiewa
+Zasada działania jest prosta: napisz "małpę", a po niej 3 cyfry
+► pierwsza to głos Eweliny @100,
+► druga — Wojtka @010,
+► trzecia — Mateusza @001
+(kolory uniwersalne i zgodne z "kolorowymi kreskami" wspomnianymi wyżej.
+@010 1 — głos pierwszy (podstawa),
+@020 2 — głos drugi, nisko i blisko,
+@030 3 — głos trzeci, nisko i daleko,
+@040 4 — głos trzeci, wysoko i daleko,
+@050 5 — głos drugi, wysoko i blisko,
+@000 0 — brak głosu.
+Możesz postawić@245dowolną liczbę@121dowolnych schematów w linijce.
+$
+Jeśli po bloku tekstu trzeba postawić komentarz, musisz go wymusić.
+*zacznij od *, żeby wymusić komentarz 
+Wtedy każda kolejna linia normalnie napisana będzie komentarzem,
+*ale bezpieczniej będzie je zaczynać od gwiazdki — czytelniej
+$kom
+W blokach tekstu gwiazdki służą do podkreślania.
+Możesz *podkreślać* po jednej rzeczy w linijce
+w środku *bądź na końcu
+**wtedy, za pomocą wymuszonych komentarzy możesz pisać uwagi, jak tutaj
+(zauważ dwie gwiazdki na początku powyższej linii; pierwsza została zjedzona przez system)
+=SEPARATORY
+Żeby zrobić separator, zacznij linijkę od =
+=Wszystko, co znajdzie się po = wyląduje na kresce
+Ale wszystko, co będzie bezpośrednio po niej, stanie się zwykłym komentarzem
+$
+dlatego pamiętaj:
+przy dzieleniu zwrotek kreskami,
+=zaczynaj bloki
+$
+od nowa, bez inicjału, jak tutaj.
+*Jeśli napis na separatorze zacznie się od R, jak poniżej
+=RABARBAR
+To kreska zrobi się czerwona, analogicznie do czerwonych bloków tekstu
+=$Kreski symbolizujące przerwy nieśpiewane
+$
+są oznaczane na niebiesko, a zaczyna się je od =$
+Zwykle opisują ilość pustych taktów bądź nazwy części
+$
+Kreska może też odznaczać zmianę tonacji,
+jeśli po = postawisz + lub -, jak tutaj:
+=+1
+=-2
+$
+A teraz przejdźmy do cuda, jakim są
+%Zapisy nutowe,efghf0DE|-*:=
+Aby stworzyć zapis nutowy, zacznij linijkę od %. Przerwie ona wówczas bloki tekstu, podobnie jak separatory.
+$
+Zapis nutowy zawiera co najmniej dwa komponenty oddzielone od siebie przecinkami:
+► tytuł,
+► nuty.
+$
+Jako, że odtworzenie typowego zapisu nutowego jest trudne, ratuję się uproszczonym zapisem:
+System nie wspiera znaków przykluczowych (bo ich liczba i tak się waha wraz z instrumentem), więc tu również trzeba sobie radzić samemu.
+=Dobrze, to teraz jak to zapisać?
+%Wszystkie możliwości "nut",=:defgahcrmps|DEFGAHCRMPS=0*f-%:=
+Niestety, niełatwym jest zaadaptowanie fachowych nazw dźwięków do tego systemu, ale jakoś mi się to udało.
+– D** - E - F - G - A - H - C - Re - Mi - Pfa* - Sol - La** –
+*jeśli chcesz wiedzieć, czemu tak, zapytaj
+**niskie D można zapisać tylko w kluczu G, wysokie A tylko w „kluczu C”; o tym za moment
+=
+W zamyśle białe i czarne nuty różnią się oktawą: to, która jest wyższa, jest zupełnie arbitralne.
+► | wydrukuje kreskę taktową,
+► = wydrukuje podwójną kreskę taktową (polecam kończyć nią zapis),
+► 0 wydrukuje pojedynczą pauzę,
+► * wydrukuje ten romb: oznacza tyle, co „zagraj tu cokolwiek”,
+► - wydrukuje przedłużenie nuty, jakakolwiek by się przed nim nie znalazła (działa też przez kreski taktowe)
+► % wydrukuje powtórzenie taktu,
+► : wydrukuje dwie kropki, w połączeniu z = tworzy znak repetycji, tak do przodu (:=), jak do tyłu (=:)
+Żeby pięciolinie nie były zbyt długie
+%możesz je rozbijać przecinkami:,fghgf|,fghgf=
+Polecam wstawiać do czterech taktów w jednej linii.
+$
+Zapis nutowy można także %efga|hC--00=
+dodać do bloków tekstu
+celem zademonstrowania melodii śpiewanej
+$R
+Tak zwykłych bloków, jak i refrenów %lelele---*|
+$S
+Rozpoczyna się go w ten sam sposób, czyli od znaku procenta
+Można go stworzyć jedynie na końcu linii
+Mini-nuty nie potrzebują tytułu, więc możesz od razu drukować
+Zmiany, które zachodzą w tego typu zapisie:
+$ w1
+- zamiast klucza G jest „klucz C”, który pokazuje centrum tonacji,
+- skala dostępnych dźwięków jest przesunięta o ton wyżej (e-a'),
+- nie można dzielić linii: %crmp|,crmp=
+- mini-nuty nie znikają dla widoku pulpitowego
+=Uwaga!
+$ w2
+KAŻDY plik musi kończyć się linijką, w której znajdzie się tylko #
+Inaczej tekst może się tworzyć w nieskończość
+i nigdy go nie przeczytasz
+kiedy postawisz samotną # na końcu pliku,
+powstanie taka ładna, zielona linijka oznaczająca koniec
+*Wszystko, co znajdzie się po tej linijce, nie będzie pokazane na tekście
+#
+KURWA KURWA CHUJ
+O właśnie

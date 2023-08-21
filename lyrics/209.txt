@@ -1,0 +1,26 @@
+=$refren + temat
+$1
+What kind of man
+What kind of man am I?
+I try to walk where I just fell
+I try to break a secret spell
+In your eyes I feel the flames of love
+$R
+Flames of love 
+Flames of love 
+I'm drowning in the sea of love
+And enough is never enough
+When I find myself deep in your eyes
+Over and over again
+Flames of love
+=$temat
+$2
+What kind of fool
+What kind of fool am I?
+I look for shadows in the sun
+For memories of days to come
+In your eyes I feel the flames of love
+=Ref.
+=$coś pomiędzy + temat
+=Ref. x2
+#

@@ -1,0 +1,27 @@
+Próbka dźwięku "H"
+$R
+@051Czy ktoś wie jak na imię ma
+Dziewczyna z sąsiedniej ulicy
+Ona w mym sercu ciągle gra
+Muzykę tą niech każdy słyszy 
+$
+Czy ktoś wie jak na imię ma 
+Dziewczyna z sąsiedniej ulicy
+Ona w mym sercu ciągle gra
+Czy mnie słyszy?
+=$16
+$1
+Każdego dnia spotykam ją 
+Co muszę zrobić by być z nią
+Nie umiem już tak dłużej żyć
+Ja chciałbym tylko przy niej być
+=Ref.
+=$16
+$2
+Szukałem wciąż miłości mej
+Nie wiedziałem że tak blisko jest
+Codziennie widuję ją 
+Lecz nadal nie wiem jak ją zwą 
+=Ref.
+=$16
+#

@@ -1,0 +1,29 @@
+=$4
+$1
+Pytasz czy wierzę w miłość i jej przeznaczenie
+Czy słowa naprawdę dziś mogą zadać ból
+Kogo naprawdę widzę gdy patrzę na ciebie
+Czy to co czuję dziś, też jutro będę czuł
+$R
+Wybacz mi@100(wybacz mi),@012już wiem
+Nie potrafię dłużej@015żyć bez ciebie
+Wybacz mi@100(wybacz mi),@012już wiem
+Nie potrafię tak już żyć
+$
+Mija czas@100(mija czas),@012bóg wie
+Czy też jutro będę@015obok ciebie
+Aby znów wytrzeć łzy
+Gdy zapłaczesz
+=$4
+$2
+Co dzień gdy serce moje czule całujesz
+Co noc gdy słyszę jak płaczesz obok gdzieś
+Kto nam odpowie dziś czy to naprawdę miłość
+Czy tylko suchy liść, który nie może spaść
+=Ref.
+=$solo 8
+=Ref. 2. połowa
+=$solo 8
+=Ref. 2. połowa
+=$8
+#    

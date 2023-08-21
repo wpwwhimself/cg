@@ -1,0 +1,22 @@
+=$temat
+$1
+Przyszła do mnie raz dziewczyna
+W ciemną noc, w ciemną noc.
+Po cichutku się wsunęła
+pod mój koc, pod mój koc.
+$R
+@115A będzie to, będzie to, będzie to lekcja miłości.
+Ta pierwsza lekcja miłości mej, mej, mej.
+A będzie to, będzie to, będzie to lekcja miłości.
+Ta pierwsza lekcja miłości mej, hej, hej.
+=$temat
+$2
+Taka mała, a już chciała
+kochać się, kochać się.
+Powolutku przytulała
+do mnie się, do mnie się.
+=Ref.
+=$temat + 1
+=Ref. x2
+=$temat
+#

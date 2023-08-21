@@ -1,0 +1,45 @@
+EWELINA
+troszeczkę głośniej
+=$8 + temat + 1
+$1
+@110Half past twelve
+@100And I’m watching the late show 
+In my flat all alone 
+How I hate to spend 
+The evening on my own 
+@110Autumn winds
+@100Blowing outside the window 
+As I look around the room 
+And it makes me so 
+Depressed to see the gloom 
+$p
+There’s not a soul out there 
+No one to hear my prayer
+$R
+Gimme, gimme, gimme 
+A man after midnight 
+Won’t somebody help me 
+Chase the shadows away 
+Gimme, gimme, gimme
+A man after midnight 
+Take me through the darkness 
+To the break of the day
+=$temat + 2
+$2
+@110Movie stars
+@100Find the end of the rainbow 
+With a fortune to win 
+It’s so different from 
+The world I’m living in 
+@110Tired of TV
+@100I open the window 
+And I gaze into the night 
+But there’s nothing there to see 
+No one in sight 
+=pre.
+=Ref. x2
+=$1.5 + 24
+=pre.
+=Ref. x2
+=$temat do wyciszenia
+#

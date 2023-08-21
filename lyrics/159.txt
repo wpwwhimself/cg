@@ -1,0 +1,25 @@
+EWELINA (-1)
+=$temat
+$1
+Pożyczony wóz wlókł się, trząsł i chwiał,
+Ale przecież wiózł tam, gdzie wieźć nas miał.
+Nim dwudziesty wiek jak zapałka zgasł,
+W Monte Carlo już nie było nas.
+$R
+W drodze do Fontainebleau
+Nawet nam nieźle szło,
+Pół Europy przejechał stary grat.
+W drodze do Fontainebleau
+Szampan był, bito szkło,
+Zawrót głowy - to było właśnie to.
+=$temat
+$2
+Dwie walizki bzdur mamy stamtąd, lecz
+Nie dosięgnął chmur bagaż dla dwóch serc.
+A gdy jakiś most prosto w niebo wiódł,
+Zawsze bliżej był motelu chłód.
+=Ref.
+=+1
+=Ref.
+=$solo
+#

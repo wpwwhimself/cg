@@ -1,0 +1,33 @@
+$1
+Noc, noc, noc, niebo pełne gwiazd, 
+Zmrok się w ciemność nagle zmienia. 
+Wiem, wiem, wiem, jedna spośród nich, 
+Może moje spełnić pragnienia. 
+$
+Nikt nie dowie się, czego bardzo chcę, 
+O czym marzę gdzieś na serca dnie. 
+Chyba tylko ty, możesz w oczach mych, 
+Znaleźć tę ukrytą prawdę. 
+$R
+Gwiazda w górze lśni, 
+Pierwszym mym życzeniem jesteś ty! 
+Spadająca gwiazda spełnia sny, 
+W których główną rolę grasz ty! 
+$2
+Tak, tak, tak, spada jedna z gwiazd, 
+Cicho zsuwa się z wysoka. 
+Może dziś wreszcie powiem ci, 
+Powiem, jak cię bardzo kocham. 
+$
+Cały świat niech wie, że ja kocham cię, 
+że bez ciebie żyć nie umiem już. 
+Popatrz w oczy me, bo gdzieś na ich dnie 
+znajdziesz tę ukrytą prawdę. 
+=Ref. x2
+$b x2
+Gwiazda!
+=$solo?
+=2. (druga część)
+=Ref. x4
+=break
+#

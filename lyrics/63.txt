@@ -1,0 +1,34 @@
+Ewelina (+6)
+$1
+Tworzyć chcesz mały świat
+dla swego uśmiechu.
+Chciałabyś iść pod wiatr
+nie dochodząc grzechu. 
+Pytasz mnie ile dni
+jeszcze jest przed nami?
+I swój wzrok wbijasz wciąż
+w bezgwiezdny aksamit. 
+$R
+Jeszcze dzień, najwyżej dwa.
+Wszystko się odmieni. 
+Nie odnajdziesz w swoich snach
+zimy i jesieni. 
+Jeszcze dzień, najwyżej dwa.
+Wszystko się odmieni.
+Ty zrozumiesz ile jest
+nieba tu na ziemi. 
+$2
+Jesteś wciąż bliska snów,
+na granicy cienia.
+Stawiasz swój pasjans dat,
+w których są marzenia. 
+Lato w nich złote jest,
+a wiosna zielona. 
+Złoto Twe, zieleń Twą
+wezmę w swe ramiona. 
+=Ref.
+=$4
+=Ref.
+=+1
+=Ref.
+#

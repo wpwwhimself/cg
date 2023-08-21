@@ -1,0 +1,30 @@
+=$4 + 1/4
+$1
+@051Jeszcze raz @001zatańczymy jak za dawnych lat %mmp|--|0rrrrrr|rm-m--|
+@051Jeszcze raz @001w tańcu obrócimy cały nasz świat %*|rmmm--|
+@051Jeszcze raz @001- serce moje, twoje dłonie, o tak %*|0rrrrrr|rm00mc|0|
+@051Jeszcze raz @001- proszę moja miła, uwierz w nas! %*|0rrrrrm|rc-c--|
+=$1
+$R x2
+Jak za dawnych lat pomówmy %ps|lspll|-s--|
+tulmy, całujmy się dziś %|sssspm|c-0
+pociesz mnie, gdy będę smutny, proszę cię %rm|p0ppmm|-r0mmc|-|
+=$8
+$2
+@051chce przypomnieć ci @001jak nam szybko mijały wspólne dni %*|0rrrrrr|-m-m-m-c|
+@051chce przypomnieć ci @001kiedy uroniłaś pierwsze ze szczęścia łzy
+@021chce przypomnieć ci @001jak na ucho szeptem mówiłaś mi %*|0HHHHH|-C-CCH-A|
+@051chce przypomnieć ci że@001ja nadal kocham cię %mmmrmp|--|00rrrch|c-|
+=$1
+=Ref.
+=$4
+$3
+gdy nam śpiewał Bad Boys Blue, gdy nam śpiewał Bad Boys tam i tu %|0pppmpm|r-ggmrmr|rm-m--|
+gdy nam śpiewał Bad Boys Blue, wtedy aż nam brakło tchu %|0mmrrmm|p-rrrcrc|h
+a, gdy Modern Talking grał swoje słynne 'you’re my heart', %0G-GEEFG|A-AAGGAA|H-
+swoje słynne 'you’re my soul', czy wszyscy już tu są? %HHHHHH|C00CCC|C-AA
+Bo my z Miłym Panem, Panem Bogdanem, robimy show! %AH|CAAA-AAA|AG-mmm-c|-
+=$1
+=Ref.
+=$solo 8
+#

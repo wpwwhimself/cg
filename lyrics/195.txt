@@ -1,0 +1,32 @@
+=$1
+=Ref. raz
+=$8
+$1
+To było wtedy, gdy w nocy do mnie przyszłaś,
+Tak się cieszyłem, gdy Ciebie zobaczyłem, 
+A Ty od razu zdejmujesz swe ubranie,
+Podchodzisz do mnie i siadasz na kolanie,
+Ja zaskoczony o wszystkim zapomniałem,
+Zadowolony od razu się oddałem.
+=$1
+$R x2
+Moje ciało tamtej nocy oszalało,
+Twoje ciało moje ciało omotało 
+Twoje piersi, Twoje dłonie, Twoje uda,
+Twoje oczy, Twoje nóżki czynią cuda
+=$8
+$2
+Te piękne chwile nad ranem się skończyły,
+Otwieram oczy, brak przy mnie tej dziewczyny, 
+Myślami błądzę czy w nocy tylko śniłem, 
+Czy to naprawdę, czy Ciebie wymarzyłem,
+Następnej nocy ktoś puka w moje drzwi,
+Przekręcam zamek, do środka wchodzisz Ty.
+=Ref.
+=$solo (8)
+$b
+Moje ciało dzisiaj oszalało,
+Twoje ciało moje omotało,
+=Ref.
+=$8
+#

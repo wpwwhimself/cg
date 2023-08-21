@@ -1,0 +1,29 @@
+=$temat
+$1
+Zdarzyło się pewnego dnia,
+zakochał się klaun w dziewczynie
+Nie wiedział jak jej wyznać ma,
+klaun, zakochany klaun.
+$R x2
+Klaun, zakochany klaun,
+on ma takie czułe serce
+Jest jak rozbity dzban,
+klaun, zakochany klaun
+=$temat
+$2
+I choć go wszyscy podziwiali
+i wszyscy bili mu brawo
+To jednak on smutny był,
+klaun, zakochany klaun
+=Ref.
+=$temat
+$3
+I po cóż ci to klaunie było
+- ten smutek i ta tęsknota?
+Wszak dobrze wiesz, że żadna z dam
+zwykłego klauna nie pokocha.
+=Ref.
+=$temat
+=Ref.
+=$temat
+#

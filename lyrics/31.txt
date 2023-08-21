@@ -1,0 +1,33 @@
+=$temat x2
+$1
+Znałem cyganeczkę Zosię 
+kazali mi ją poślubić
+$ x2
+lecz me serce nie pozwala, 
+mojej cyganeczki lubić.
+=$temat x2
+$2
+Na podwórzu, na podwórzu 
+cztery kare konie stoją 
+$ x2
+lecz ty śliczna cyganeczko 
+nigdy już nie będziesz moją.
+=$temat x2
+=$solo
+=$temat x2
+$3
+A jak mi się znudzi wreszcie 
+kupię sobie konia w mieście 
+$ x2
+kupię konia i aksamit 
+i pojadę z cyganami.
+=$temat x2
+$4
+Jadę w Polskę z taborami, 
+koniom grzywy wiatr rozwiewa
+$ x2
+A ja jadę z Cyganami 
+i o Cyganeczce śpiewam.
+=$temat x2
+cza cza cza
+#

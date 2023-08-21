@@ -1,0 +1,46 @@
+$1 w3
+Jak zwykle znów nie robisz nic 
+Gazetę czytasz cały dzień 
+Łaskawie czasem obiad zjesz 
+Po domu snujesz się jak cień 
+$ w2
+Ty z kolegami wolisz pić 
+Niż z moją mamą ciasto piec 
+I zamiast dzieckiem zająć się 
+Musiałeś znowu wyjść na mecz 
+$p
+To nie jest miłość, lecz ja kocham Cię 
+Nie jestem świnią, choć ty tego chcesz. 
+$R x2
+Facet to świnia 
+Mówisz, że ty o tym wiesz 
+Choć ja się staram jak mogę 
+Przez całe życie słyszę ten tekst
+=$4
+$2 w2
+Ty w telewizor gapisz się 
+A do kościoła chodzisz sam 
+I nigdy nie przytulisz mnie 
+W łazience znowu cieknie kran 
+$ w3
+Gdy w nocy czujesz się jak lew 
+To obręcz ściska moją skroń 
+No kiedy wreszcie puścisz mnie 
+Migrena to najlepsza broń 
+=pre.
+=Ref.
+=$16
+$3 w3
+O samochodach mówisz wciąż 
+Do dziewczyn ślinisz się jak pies 
+Ty życie zmarnowałeś mi 
+Od kogo jest ten SMS? 
+$ w2
+I chociaż oszukujesz mnie 
+Ja lubię twój szelmowski śmiech 
+Bez ciebie nudny byłby świat 
+Bo facet to jest dobra rzecz 
+=pre.
+=Ref.
+=$wieczne solo
+#

@@ -1,0 +1,29 @@
+$R
+Tylko ona jedyna swe ciało wciąz wygina
+Tylko ona jest moja kocham ją
+Gdy tańczy jestem w niebie przytulę ją do siebie
+Jest moja jest moja kocham ją
+=Ref. raz jeszcze
+=$8
+$1
+Lubisz tańczyć do białego rana
+Uwodzić zaskakiwać lubisz to kochana
+Ja na Ciebie bardzo lubię patrzeć
+Bo jesteś dla mnie wszystkim jesteś moim skarbem
+Jesteś moim skarbem
+skarbem
+jesteś moim skarbem
+=Ref.
+=$8
+$2
+Lubisz tańczyć do białego rana
+Tak tylko dla mnie zatańcz dziś kochana
+Ja na Ciebie bardzo lubię patrzeć
+Bo jesteś dla mnie wszystkim jesteś moim skarbem
+Jesteś moim skarbem
+skarbem
+jesteś moim skarbem
+=Ref.
+=$8 + 5
+=Ref. x2
+#

@@ -1,0 +1,28 @@
+Ewelina (-3)
+=$3
+$i
+@121Jesteś szalona
+=$temat
+$1
+Miłość odchodzi – słyszę znów z twoich ust,
+Zawsze prawda miała jakiś sens,
+Te dni jak bajka, piękne jak tysiąc róż,
+Ty się śmiałaś zawsze, no i cześć. 
+$R x2
+Jesteś szalona, mówię ci,
+Zawsze nią byłaś,
+Skończysz wreszcie śnić?
+Nie jesteś aniołem, mówię ci.
+Jesteś szalona.
+=$temat
+$2
+Na pożegnanie dajesz mi uśmiech swój,
+Gdy odchodzisz wszystko burzy się,
+Kochałem cię i twe szaleństwa, mocno tak,
+Ty się śmiałaś zawsze, no i cześć.
+=Ref.
+=$temat
+=Ref. raz
+=Ref.
+=$temat
+#

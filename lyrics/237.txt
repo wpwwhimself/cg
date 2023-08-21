@@ -1,0 +1,33 @@
+Głośniej!
+=$temat
+$1
+Trafił Ci się facet piękny i wspaniały 
+Niemal idealny, prawie doskonały 
+Śliczny, pięknooki i wysportowany 
+Sianem portfel ma wypchany 
+$p
+Ty zadbaj o niego, on zadba o Ciebie
+Będzie wam jak w niebie 
+$R x2
+Piękna Młoda, Ty nasza wariatko 
+Wczoraj byłaś panną, Dziś jesteś mężatką 
+Szczęścia, zdrowia i spełnienia marzeń
+Tego wam życzymy i śpiewamy razem 
+=$temat
+$2
+Gdy zmęczona będziesz niech Cię wymasuje 
+Upierze, posprząta, obiad ugotuję 
+Niech całuje czule i na rękach nosi 
+Dużo kasy niech przynosi 
+=pre.
+=Ref.
+=$temat
+$3
+Gdyby się zdarzyło, że mężuś podpadnie 
+Ty się nie denerwuj, uśmiechaj się ładnie 
+Chciał Cię mieć za żonę, więc niech teraz klęka 
+I całuję Cię po rękach 
+=pre.
+=Ref., wolniej, ale przyspieszając
+=$temat
+#

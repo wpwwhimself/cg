@@ -1,0 +1,28 @@
+=$16, temat
+$1
+Po fali srebrzystej, 
+po fali błekitnej Łabędzi szum 
+Nie pytaj dziewczyno
+Nie pytaj mnie Gdzie chłopak twój
+Lata przeminą 
+Łabędzie odpłyną, Zostanie żal
+A ty dziewczyno 
+Czekaj, czakaj tam, Czekaj tam
+$R
+Biale łabędzie niechaj płyną i płyną 
+Tu został po nich tylko żal
+Biale łabędzie wiosną znowu przypłyną
+A ty dziewczyno czekaj tam, Czekaj tam
+$2
+Wiosna przychodzi 
+Miłość odchodzi, Łabędzi szum
+Nie pytaj dziewczyno
+Nie pytaj mnie Gdzie chłopak Twoj
+Lata przeminą 
+Łabędzie odpłyną, Zostanie żal 
+A ty dziewczyno
+czekaj, Czekaj tam, czekaj tam 
+=Ref.
+=1.
+=Ref. x2
+#

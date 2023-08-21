@@ -1,0 +1,31 @@
+=$8
+$1
+Nie wiedziałem, co to znaczyć ma
+Gdy mijałaś mnie i tu i tam
+Pomyślałem sobie – zwykły ktoś
+chodzi za mną, tak na złość
+$p
+W tajemnicy ktoś powiedział mi
+Ona marzy i o Tobie śni
+Czemu trudno dzisiaj zdobyć się
+na rozstanie tak, jak chcesz
+$R x2
+Tak kocha się tylko w filmach
+Rzeczywistość jest już inna
+Inny głos, inna twarz
+to nie jest to
+$
+Inny głos, inna twarz
+to nie jest to
+=$8
+$2
+Tak to zrobić mogłaś tylko Ty
+zamiast Ciebie miałem tylko łzy
+Zrozumiałem, że to był mój błąd
+Co mam zrobić, by być z nią
+=pre.
+=Ref.
+=$8 + 16
+=Ref.
+=$8
+#

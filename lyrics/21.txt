@@ -1,0 +1,23 @@
+$R
+(Dlatego) Bujaj się, bujaj się, nie zobaczysz więcej mnie,
+bujaj się, bujaj się tak bez końca,
+i ja też bujam się nie zobaczysz więcej mnie, 
+bujam się, bujam się tak bez końca!
+=$9
+$1
+Za wszystko co zrobiłaś, 
+że mi nie wybaczyłaś,
+za wszystkie twoje płacze, 
+ja też ci nie wybaczę.
+=Ref.
+=$8 + 9
+$2
+Za wszystkie twoje żale,
+dziś nie żałuje wcale,
+ja zawsze byłem skromny,
+od dzisiaj jestem wolny. 
+=Ref.
+=$8
+=Ref. x2
+=$8
+#

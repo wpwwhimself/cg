@@ -1,0 +1,24 @@
+EWELINA (+0)
+$1
+Kawy łyk wina smak 
+Czegoś żal i kogoś brak 
+Chodzi ktoś po domu z kąta w kąt 
+Ale robi błąd 
+$R x2
+Złamano już tyle serc 
+Wspominać nawet żal 
+Tak wiele spadło łez
+Lecz w nas jeszcze wciąż miłość trwa
+=$1 + 8
+$2
+Czeka ktoś długo w noc 
+Wbija wzrok w kieliszka dno 
+Wierzy i nadzieje wróży z gwiazd 
+Ale traci czas 
+=Ref.
+=$8 + 8
+=+2
+=Ref.
+$
+Lecz w nas jeszcze wciąż miłość trwa.
+#

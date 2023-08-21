@@ -1,0 +1,45 @@
+$i x2
+Heja hej
+Heja hej
+$R x2
+Heja hej, *coście mi zrobili
+Po pijaku ożenili
+Heja hej, *chyba oszaleję
+Każdy się dziś ze mnie śmieje
+**za pierwszym razem tacet
+=$1
+$1
+Co ja zrobiłem że się ożeniłem
+Chyba pijanym był
+Zamiast Marysi to wziąłem Krysię
+Jak ja teraz będę żył
+$
+Co ja zrobiłem że się ożeniłem
+Chyba odbiło mi
+Bo mojej Krysi wszystko już wisi
+Jak ja teraz będę żył
+=Ref.
+=$8 + 1
+$2
+Co ja zrobiłem że się ożeniłem
+Za późno jest już dziś
+Ta stara Krycha ledwo już dycha
+Jak tak długo można żyć
+$
+Co ja zrobiłem że się ożeniłem
+Tak to nie miało być
+A tu Marysia z sołtysem już dzisiaj
+Teraz bym sobie dobrze żył
+=Ref.
+$b
+Moja baba, jędza, wzięła mnie do księdza
+Takiego pijanego i bezbronnego
+Coś pogadali coś napisali
+Nie wiedziałem o tym, że to o mnie gadali
+$
+Na drugą niedzielę, ksiądz głosił w kościele
+Że niedługo będzie moje wesele
+Nie ma już odwrotu, narobili mi kłopotu
+Ksiądz zadowolony a ja już stracony
+=Ref.
+#        

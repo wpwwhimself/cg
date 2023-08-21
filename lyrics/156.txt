@@ -1,0 +1,33 @@
+ewelina (-3)
+$1
+Dzień - wspomnienie lata
+Dzień - słoneczne ćmy
+Nagle w tłumie w samym środku miasta
+Ty po prostu ty
+$
+Dzień - godzina zwierzeń
+Dzień - przy twarzy twarz
+Szuka pamięć poplątanych ścieżek
+Lecz czy znajdzie nas
+$R
+Tyle słońca w całym mieście
+Nie widziałeś tego jeszcze
+Popatrz o popatrz!
+Szerokimi ulicami
+Niosą szczęście zakochani
+Popatrz o popatrz!
+$
+Wiatr porywa ich spojrzenia
+Biegnie światłem w smugę cienia
+Popatrz o popatrz!
+Łączy serca wiąże dłonie
+Może nam zawróci w głowie też
+=$8
+$2
+Dzień - powrotna podróż
+Dzień - podanie rąk
+Ale niebo całe jeszcze w ogniu
+Chcę zatrzymać wzrok
+=Ref.
+=$1+4
+#

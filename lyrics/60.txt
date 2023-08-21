@@ -1,0 +1,34 @@
+Ewelina (+5)
+$1
+Piszę list - @152na niebie północ.
+Miasto śpi - już bardzo późno.
+Cicho tu i słyszę tylko - bicie swego serca.
+Piszę list - a to niełatwe.
+Ale ty - ty umiesz zawsze
+Z paru słów, wyczytać więcej - to co tylko zechcesz.
+$R
+@152Jak się masz? Kochanie, jak się masz?
+Powiedz mi, kiedy znowu Cię zobaczę
+$
+Jak się masz? Kochanie, jak się masz?
+Powiedz mi, co zostało z naszych marzeń
+$
+Jak się masz? Kochanie, jak się masz?
+Życzę Ci, abyśmy byli razem już..
+$2
+Piszę list - na niebie jasno.
+Blady świt - już gwiazdy gasną.
+Cicho tu i słyszę tylko - bicie swego serca.
+Blady świt - jak twoje ręce.
+Uwierz mi - napiszę więcej
+Kiedy znów do Ciebie wrócą wszystkie moje myśli.
+=Ref.
+=$1
+=Ref. (cz. 1)
+=+1
+=Ref. (cz. 2+3)
+=+1
+=Ref. (cz. 3)
+$
+Abyśmy byli razem już.
+#

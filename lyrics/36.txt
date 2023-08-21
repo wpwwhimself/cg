@@ -1,0 +1,27 @@
+Ewelina (-1)
+$1
+Dałabym ci dała, całusa słodkiego,
+Ale nie wiem miły, czy ty tego chcesz.
+Bo co najpiękniejsze, dla ciebie schowałam
+Jeśli się postarasz, wszystko możesz mieć.
+$R
+Ja kocham cię, wszyscy to wiedzą
+Spójrz w oczy me, no spójrz prawdę powiedzą,
+Czy pragniesz mnie, tak jak ja ciebie
+Przytul, pocałuj ze sobą zabierz mnie.
+$2
+Dałabym ci dała, serce me jedyne,
+Ale muszę wiedzieć, czy ty tego chcesz.
+Najpiękniejsze słowa, w sercu zapisałam,
+Każde jest dla ciebie, dobrze o tym wiesz.
+=$temat
+=Ref.
+$3
+Dałabym ci dała, radość dnia każdego,
+Jeśli tylko zechcesz, ze mną będziesz miał.
+Nie ukrywaj dłużej, uczucia swojego,
+Nie marnujmy czasu, który los nam dał.
+=Ref.
+=1.
+=$melodia
+#

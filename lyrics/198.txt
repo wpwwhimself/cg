@@ -1,0 +1,57 @@
+=$wstęp + 8
+$i
+Przyszedł chłopak do spowiedzi
+Ksiądz w konfesjonale siedzi
+W imię Ojca, Syna, Ducha
+Niech ksiądz tej spowiedzi słucha:
+$R' x2
+Tak, ja zgrzeszyłem,
+Tak, proszę księdza.
+$1
+Ależ chłopcze, rzeknij słowo:
+Całowałeś dziewczę w czoło?
+$R x2
+Nie, proszę księdza,
+Troszeczkę niżej (/wyżej)
+$2
+Ależ chłopcze, ty psiajucho,
+Całowałeś dziewczę w ucho?
+=Ref.
+$3
+Ależ chłopcze, to rozpusta!
+Całowałeś dziewczę w usta?
+=Ref.
+=$solo
+$4
+Ależ chłopcze, nie przeżyję!
+Całowałeś dziewczę w szyję?
+=Ref.
+$5
+Ależ chłopcze, zdaje mi się
+Całowałeś dziewczę w cysie?
+=Ref.
+$6
+Ależ chłopcze, to występek!
+Całowałeś dziewczę w pępek?
+=Ref.
+$7
+Ależ chłopcze, rozgarnięty
+Całowałeś dziewczę w pięty?
+=Ref.
+=$solo
+$8
+Ależ chłopcze, to obłuda!
+Całowałeś dziewczę w uda?
+=Ref.
+$9
+Ależ chłopcze, takie rzeczy,
+Całowałeś dziewczę w plecy?
+=Ref.
+$10
+Ależ chłopcze, bo cię gwizdnę!
+Całowałeś dziewczę w ...
+=$1
+$R' x2
+Nie, do widzenia!
+Nie dostaniesz rozgrzeszenia!
+#

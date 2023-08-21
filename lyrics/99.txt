@@ -1,0 +1,40 @@
+$1 w2
+Gdy sześć lat skończyłem, do szkoły był czas
+Maleńka Marzenka żegnała mnie tak
+$ w1
+Zostawiasz mnie samą, ach, czemu tak jest
+Me serce zranione do ciebie wciąż lgnie
+$ w2
+I tuląc się do mnie mówiła mi tak:
+$ w1
+Nie przejmuj się miły, bo to pierwszy raz
+$R x2
+Majteczki w kropeczki, ło ho, ho, ho,
+Niebieskie wstążeczki, ło, ho, ho, ho
+Bielutki staniczek ło, ho, ho, ho
+Maleńki guziczek ło, ho, ho, ho
+$
+To cały mundurek tych naszych pań
+Z koronek i tiulek, to ja mówię wam.
+=$1
+$2 w2
+Kolonie, wycieczki, poznałem nie raz,
+Obozy sportowe zaliczyłem też.
+Druhenki, sportsmenki tam kochały mnie
+Tam także poznałem słów znaną mi treść
+Choć lata mijały i szybko biegł czas
+To zawsze mówiły, to mój pierwszy raz
+=Ref.
+=$3
+$3 w2
+Lat mam dwadzieścia,
+w mojej głowie nuci zgodnie damski chór:
+$ w1
+Ja sama! No, przestań! Ja wciąż boję się...
+Czy ty to zrozumiesz, że wstyd mi i źle?
+Gdy *wreszcie zrozumiesz*, co tak martwi nas
+Wy nigdy nie wiecie, że to pierwszy raz.
+=Ref.
+=$12
+=Ref.
+#

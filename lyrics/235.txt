@@ -1,0 +1,40 @@
+EWELINA
+=$8
+$R w3
+Będę przy tobie, będę do końca i nie opuszczę cię.
+Będę przy tobie, będę do końca w każdym kolejnym śnie. 
+=$1
+$1 w2
+Nic prócz ciebie nie mam
+na tym świecie, teraz 
+W nic nie wierzę oprócz nas. 
+$ w3
+Nic prócz twoich ramion,
+gwiazd co przecież kłamią.
+Wszystko to co dał mi czas. 
+$R w3
+Będę przy tobie, będę do końca i nie opuszczę cię. 
+Będę przy tobie, będę do końca w każdym kolejnym śnie.
+=$1
+$R x2
+@145Będę przy tobie, będę do końca i nie opuszczę cię. 
+Będę przy tobie, będę do końca w każdym kolejnym śnie.
+=$1 + 8 + 1
+$2 w3
+Nic prócz twych uśmiechów,
+często wartych grzechu.
+Na tym świecie nie mam dziś. 
+$ w2
+Nic prócz dłoni twoich,
+serca co się boi,
+twoim śladem ciągle iść. 
+=$1
+=Ref.
+$ w2
+Będę przy tobie, będę do końca i nie opuszczę cię. 
+$ w3
+Będę przy tobie, będę do końca w każdym kolejnym śnie. 
+=$1
+=+1
+=Ref.
+#

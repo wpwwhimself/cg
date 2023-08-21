@@ -1,0 +1,31 @@
+$1
+Jest juz prawie ciemna noc, 
+Wszystkie panny poszły spać, 
+Tylko jedna mała miss, 
+Przy księżycu pisze list: 
+$
+Wracaj, miły, kochaj mnie, 
+Bo mi się juz płakać chce, 
+Moje serce wciąż do Ciebie drży! 
+$R x2
+Pocałuj mnie, mój kochany, 
+Na dobranoc bajkę powiedz mi. 
+Pocałuj mnie, mój kochany, 
+I zaśpiewaj: lulaj, lulaj mi.
+=$16 + 16
+$2
+W noc, gdy tak cichutko spała, 
+Gdy się go nie spodziewała, 
+Nad łóżeczkiem pochylony, 
+Stał jej miły narzeczony! 
+$
+Ona oczka otworzyła 
+I za szyje go chwyciła, 
+Do serduszka przytuliła się! 
+=Ref.
+=+2
+=$16
+=Ref.
+$ x2
+I zaśpiewaj "Lulaj, lulaj" mi.
+#

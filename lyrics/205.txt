@@ -1,0 +1,33 @@
+Ciszej!
+$1
+Kupiłem sobie dżinsy, buty, czapkę i pas
+Opuszczam Amerykę - byłem tam pięć lat
+Lecz tęsknię już tak bardzo, że
+nie mogę spać nie mogę jeść
+marzeniem moim twarz zobaczyć twoją jest.
+$
+Wiozę torby z darami,
+W aucie z alufelgami,
+Portfel cały wypchany dolarami, 
+A ty... 
+$R
+A ty całuj mnie - to taka piękna gra 
+Całuj mnie - ja ci to wszystko dam 
+$2
+Podjadę pod okienko twe - zastukam co sił 
+Nie będę stukał długo, bo szybę bym zbił 
+A ty mi zaraz otworzysz, 
+Jestem bogaty więc możesz 
+Twój ojciec, co w polu orze nie będzie mnie bił 
+$p
+(Bo) dam ci torby z darami 
+Auto z alufelgami 
+Portfel cały wypchany dolarami, a ty... 
+=Ref.
+=pre.
+=$solo
+=$4
+=Ref.
+=pre.
+=Ref. x2
+#

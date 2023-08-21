@@ -1,0 +1,36 @@
+$1
+Nie chcę chodzić z tobą na spacer
+Nie chcę pisać wierszy na klatce
+Nie pójdziemy razem do kina
+Chociaż świetna z ciebie dziewczyna
+$
+Nie chcę chodzić z tobą po górach
+Nie chcę pisać "love" na murach
+Nie zaproszę cię do mnie na wino
+Chociaż jesteś świetną dziewczyną
+$p
+Ale jedno, czego chcę,
+i ty o tym dobrze wiesz
+Chowasz tę cudowną rzecz
+tę, o której tylko śnię...
+$R x2
+Chcę oglądać twoje nogi (nogi, nogi, nogi)
+Chcę byś założyła mini (mini, mini, mini)
+Ślimak dziś wystawił rogi (rogi)
+A ty pokaż swoje nogi
+=$8
+$2
+Nie chcę chodzić z tobą po parku
+Nie chcę słuchać śpiewu kanarków
+Nie pójdziemy razem do kina
+Chociaż świetna z ciebie dziewczyna
+$
+Nie chcę listów miłosnych wysyłać
+Nie chcę serca na drzewach wycinać
+Nie zabiorę cię do mnie na wino
+Chociaż jesteś świetną dziewczyną
+=pre.
+=Ref.
+=$8
+=Ref.
+#

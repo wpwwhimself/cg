@@ -1,0 +1,28 @@
+=$temat x2
+$1
+Godzina późna na zegarze,
+wszyscy kładą się spać.
+Wtedy ja zaczynam marzyć
+o dziewczynie w moich snach. 
+$R x2
+@141Dziewczyno, dziewczyno, dziewczyno ma,
+dlaczego jesteś taka?
+Dziewczyno, dziewczyno, dziewczyno zła,
+odrzucasz miłość chłopaka.
+=$temat x2
+$2
+O dziewczyno jasnowłosa,
+którą kochać chcę. 
+Popatrz na mnie i pokochaj,
+nie odrzucaj mnie.
+=Ref.
+=$temat x2
+$3
+W końcu ona mnie poznała,
+ale to był pech. 
+W sercu dwóch chłopaków miała,
+nie mogło być ich tam trzech.
+=Ref. x2
+=$temat x2
+*można wyłączyć; tutaj w zasadzie już jest koniec, po tym przez 2 minuty trwa cisza
+#

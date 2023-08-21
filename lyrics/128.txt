@@ -1,0 +1,41 @@
+*intro andante
+=$temat
+$R x2
+Pszczółka Maja sobie lata (ooo)
+Zbiera nektar gdzieś na kwiatach 
+A Pan Gucio w tulipanie 
+Czeka sobie na śniadanie
+$1
+Przyleciała gdzieś na kwiatek (ooo)
+Ale z Gucia jest gagatek 
+Atakuje niespodzianie 
+Z tego wielkie jest śniadanie 
+=Ref.
+$2
+Tekla, patrząc ze swej sieci (ooo)
+"Co robicie, drogie dzieci?" 
+Opuściła się ciut niżej 
+A tam Gucio Maję liże 
+=Ref.
+=$temat
+$3
+Aleksander, patrząc na to (ooo)
+Wyrwał się ze swą armatą 
+Na biedronki trzykropeczki 
+By pobawić się troszeczki
+=Ref. raz
+$4
+Konik Filip, już nie może (ooo)
+Myśli: "Kiedy się położę?"
+Patrzy, obok, leci mucha 
+"Idę właśnie ją zobaczyć" 
+=Ref. raz
+$5
+Oddział mrówek, tańcząc w koło (ooo)
+Och, jak, kurcze, jest wesoło 
+"Chodźcie, się zbierzemy w kupę 
+I zerżniemy Mai pupę" 
+=Ref.
+=$temat
+*ale to był niestety tylko piękny sen
+#

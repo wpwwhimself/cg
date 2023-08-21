@@ -1,0 +1,20 @@
+Ewelina (-1)
+$p x2
+Śpij i zamknij oczy śnij - śnij 
+$R x2
+A ja będę twym aniołem 
+Twą radością, smutkiem, żalem 
+Będę gwiazdą na twym niebie 
+Będę zawsze obok Ciebie
+$z
+Jak, wytłumaczyć Tobie mam 
+Że jesteś wszystkim, tym co mam 
+Tym co jest dobre i co złe 
+Uwierz tak bardzo (kocham Cię)
+=pre.
+=$1
+=Ref. x1.5
+=zwrotka (W)
+=zwrotka (E)
+=Ref.
+#

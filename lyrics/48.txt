@@ -1,0 +1,56 @@
+Ewelina
+$i w2
+Hej czy Ty wiesz, że mam Cię na oku
+Hej czy Ty wiesz co czeka Cię
+$ w1
+Hej czy Ty wiesz kochanie za chwilę
+Spotka Cię cud to będę ja
+$ w2
+Hej czy Ty wiesz, że mam Cię na oku
+Hej czy Ty wiesz dziś złapię Cię
+$ w1
+Hej czy Ty wiesz kochanie za chwilę
+Spotka Cię cud to będę ja
+$1 w1
+Już tyle lat prawie wiek w końcu to zrozumiesz, 
+Że właśnie mnie tylko jednej chcesz
+$ w2
+Na ławce są serca dwa sama rysowałaś
+To Ty i ja taki tajny kod
+$R
+Hej czy Ty wiesz, że mam Cię na oku
+Hej czy Ty wiesz co czeka Cię
+Hej czy Ty wiesz kochanie za chwilę
+Spotka Cię cud to będę ja
+$
+Hej czy Ty wiesz, że mam Cię na oku
+Hej czy Ty wiesz dziś złapię Cię
+Hej czy Ty wiesz kochanie za chwilę
+Spotka Cię cud to będę ja
+=$8
+$2 w2
+To setny już SMS znów anonimowy
+I piszesz, że kochasz we mnie się
+$ w1
+Park basen klub tam gdzie Ty wszędzie mnie spotykasz
+I czuję, że ja rozkocham Cię
+$b
+@110Chodź kochanie
+@100Niech to się w końcu stanie
+@110Chodź kochanie
+@010Ja ciebie chcę
+@110(no) chodź kochanie
+Chodź kochanie
+Ja Ciebie chcę
+=Ref.
+=$8
+$3 w1
+Pięć długich lat było tak wreszcie zrozumiałeś
+Że miłość ma tylko jedną twarz
+$ w2
+Dziś jesteś tu tulisz mnie moje przeznaczenie
+Ty obok mnie teraz budzisz się
+=Ref.
+$
+Hej czy Ty wiesz
+#

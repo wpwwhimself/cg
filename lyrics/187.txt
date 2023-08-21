@@ -1,0 +1,24 @@
+EWELINA (+2)
+$1
+Życie ma smak, ręce w kieszeni, problemów brak.
+Życie ma gest, gdy zimno w słońce, a w upał deszcz.
+Życie ma bluesa, gdy uśmiech na twarzy wszystko dokucza!
+Życie ma czas, choć właśnie na życie często go brak!
+$R x2
+Ale żyj każdą chwilą jaka właśnie cię otacza!
+Ale żyj, bo to co mija to już twoja własna strata!
+$2
+Życie to cień, bo rzeczywistość wciąż inna jest.
+Życie to gra, i choć masz GAME OVER, to ona trwa.
+Życie to jazz, choć ciągle toczy się, lecz nie wiesz czym jest.
+Życie ma czas, choć właśnie na życie często go brak!
+=Ref.
+$3
+Życie jest snem i nie chcesz nigdy obudzić się!
+Życie jest proste, nawet, gdy mocniej się o nie otrzesz!
+Życie ma bluesa, gdy uśmiech na twarzy wszystko dokucza!
+Życie ma czas, choć właśnie na życie często go brak!
+=Ref.
+=$8 + 8
+=Ref.
+#

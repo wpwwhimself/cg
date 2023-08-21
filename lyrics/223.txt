@@ -1,0 +1,26 @@
+%temat,h-ah0a0h|0c0a--00|0fafa-fm|-r0c0h--:=
+$1
+Olśniewająca, najpiękniejsza za wszystkich dam
+Zdumiewająca, 100 pomysłów na wszystko ma
+Właśnie taka, której dziś potrzebuje świat
+Której na tym świecie nie było 1000 lat
+$p
+Nosi cały czas swe małe okularki
+I wygląda jak z animowanej bajki
+$R x2
+@121La, La, La, Lalunia z niej! 
+La, La, La, Laleczka! 
+Chyba w niej zabujam się.
+Daję Ci słowo chcę być tylko z Tobą
+=$przerwa + 1
+$2
+Najpiękniejsza, że nie można ominąć jej
+Najsprytniejsza, bardzo szybko domyśla się
+Właśnie taka, której można zaufać dziś
+Której można oddać wszystko lub nie dać nic
+=pre.
+=Ref.
+=$temat
+=Ref.
+=$przerwa
+#

@@ -1,0 +1,27 @@
+=$4 + temat
+$1
+Śliczna, zawsze roześmiana
+i tak wiele wdzięku ma. 
+Wciąż adorowana
+przez cały czas.
+$p
+Dziś każdy tak bardzo
+chciałby z nią być.
+$R x2
+Kasiu Kasieńko, co w sobie masz? 
+O Tobie marzy każdy z nas. 
+Och, Kasiu Kasieńko, co w Tobie jest? 
+Wszyscy chcą Cię mieć.
+=$temat
+$2
+Zgrabne nóżki, piękna buzia
+i usteczka niczym miód.
+Ja daję Wam słowo,
+to jest istny cud.
+=pre.
+=Ref.
+=$temat
+=pre.
+=Ref.
+=$temat
+#

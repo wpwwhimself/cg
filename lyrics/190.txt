@@ -1,0 +1,34 @@
+$1
+Spojrzalem w Twoje oczy zatopiłem się,
+Twoje rzęsy rzuciły na mej twarzy cień.
+Nie wiedziałem jeszcze ,domyślałem się,
+Przez tą krótką chwilę już na pewno wiem...
+$R x2
+To taka miłość,
+Na którą czekasz całe życie .
+To taka miłość
+Dla wybrańców losu.
+Jak sie odnaleźć na tej liście?
+Tego odgadnąć nie sposób.
+$2
+Tak zdarzyła się ta miłość nasza piękna dziś.
+Nie wierzyłem jeszcze chciałem dalej solo iść.
+Zrozumiałem już że nie wiem dokąd, gdzie?
+I poczułem że bez Ciebie nie ma mnie...
+=Ref.
+$3
+Kto kieruje Naszym losem w świecie tym?
+I od kogo są zależne nasze wszystkie dni?
+Ile trzeba tego szczęścia w życiu mieć?
+Aby móc powiedzieć tylko taką rzecz...
+$R2 x2
+To Nasza miłość ,
+Na nią czekałem całe życie.
+To taka miłość,
+Dla wybrańców losu.
+Jak się odnałeźć na tej liście?
+Tego odgadnąć nie sposób.
+=+1
+=$solo
+=Ref.2
+#

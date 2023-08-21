@@ -1,0 +1,22 @@
+=$2 + 8
+$1
+Oto dzisiaj jest wielki bal %EE00FG|F00GA|G
+Ten wielki bal na sto par
+Chcę prosić Cię o jeden taniec, jeden walc %GAH|A-|0pmr|ss00slc|-|
+Proszę Cię, uśmiechnij do mnie się %pp-p-0p|p-r-m-ps|--|
+$R x2
+Dokoła roztańczony tłum
+Wirują pary rozbawione
+Jak kwiaty suknie kolorowe
+Fruwają w tańcu jak szalone
+%16,mrgmr|g*
+$2
+Mam suknie swą jak ze snu
+Więc oczy Twe śmieją się
+I biały kwiat wpięłam we włosy swe
+Zatańcz ze mną, nie mów nie
+=Ref.
+=$16
+=Ref.
+=$16
+#

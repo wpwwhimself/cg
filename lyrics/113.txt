@@ -1,0 +1,20 @@
+=$16
+$1
+Obiecała mi, że się spełnią moje sny.
+W mych marzeniach na zawsze już będziesz żyć.
+Czy odgadnie ktoś jak na imię ona ma?
+Nikt jej nie zna, tylko ja.
+=$1
+$R x4
+@145O tobie, kochana, o tobie myślę wciąż.
+=$1 + 16
+$2
+Pragnę przy niej być, tylko patrzeć w oczy jej.
+Czy wysłucha i wszystko będzie OK!
+Nie wiem nawet czy odwzajemni miłość mi.
+Będę czekał cały czas.
+=$1
+=Ref.
+=$1 + 16 + 1
+=Ref. x3
+#

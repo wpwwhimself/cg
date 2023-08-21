@@ -1,0 +1,36 @@
+=$X + 1
+$1
+Powiedz, powiedz mi, kochana,
+kiedy weźmiesz ze mną ślub
+i odsłonisz biały welon,
+bym mógł dotknąć twoich ust.
+Mógłbym ci kupować kwiaty,
+rzucać słońce do twych stóp
+Powiedz, powiedz mi, kochana,
+kiedy weźmiesz ze mną ślub.
+$R
+Jeśli nie zatęsknisz do mnie,
+poślę parę duchów złych
+i na zawsze z nimi będziesz,
+bo cię już nie zechce nikt.
+Jeśli moją nie zostaniesz,
+poślę parę duchów złych
+One zrobią co im każę
+i cię już nie zechce nikt.
+=$8 + 1
+$2
+Nikt cię wtedy nie obroni,
+nie osłoni ciałem swym,
+nikt nie poda ci już ręki
+i nie pójdzie z tobą w dym,
+bo się każdy duchów boi,
+moich towarzyszy złych,
+którzy tak działają cicho,
+że ich nie usłyszy nikt.
+=Ref.
+=$9 + 8 + 1
+=Ref.
+$ x2
+Nanana,
+Już nie zechce nikt.
+#

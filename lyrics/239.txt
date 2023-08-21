@@ -1,0 +1,34 @@
+EWELINA
+%8,000def-f-f-a-|H-0|000HCR-R-R-M|C-0:=
+=$1
+$1
+Tysiące myśli przed oczami twoja twarz %000gr-rr|0c--*|
+Nie mogę jeść
+I nie mogę w nocy spać
+
+To tylko miłość
+Wiem jak zdobyć serce twe
+Mam w głowie sprytny plan
+Tylko ciebie chce
+$R x2
+@152Dziś ci to powiem
+Zakochałem się w tobie
+Myślę o nas cały czas
+Jak to się stało że mi ciebie wciąż mało
+Że mi ciebie ciągle brak
+=$8 + 1
+$2
+Pocałuj mnie
+Powiedz, że chcesz ze mną być
+Zaufaj mi
+A będziemy razem śnić
+
+Bo każdy wie
+Miłość może wiecznie trwać
+Gdy w życiu jeden cel maja serca dwa
+=Ref.
+=$8
+=Ref. (bez perkusji) (uboga harmonia!)
+=Ref. x1.5
+=$8
+#

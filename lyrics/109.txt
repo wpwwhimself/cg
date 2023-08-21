@@ -1,0 +1,20 @@
+$1
+Wesoło jesienią w ogródku na grządce, 
+Tu ruda marchewka tam strączek, 
+Tu dynia jak słońce, tam główka sałaty, 
+A w kącie ogórek wąsaty. 
+$R x2 
+@115Ogórek, ogórek, ogórek, 
+Zielony ma garniturek, 
+I czapkę i sandały, 
+Zielony, zielony jest cały. 
+$2
+Czasami jesienią na grządkę w ogrodzie, 
+Deszczowa pogoda przychodzi, 
+Parasol ma w ręku, konewkę ma z chmurki, 
+I deszczem podlewa ogórki.
+=Ref.
+=1.
+=Ref.
+*wyciszenie
+#

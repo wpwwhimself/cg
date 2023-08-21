@@ -1,0 +1,36 @@
+=$intro + 16
+$1 w2
+Kolor drzew mienił się
+Cienie chmur rozwiał wiatr
+Ludziom smutku przybyło i lat
+Wciąż mam ten sam zły sen
+Lustro co ma twarz
+Fotografie przeglądam co dzień
+Wspomnieć chce chwilę te 
+Gdy poznałem cię
+$R
+Miałaś 18 lat
+Cały mi zazdrościł świat
+Nie wiedziałem nic
+Liczyłaś się jedynie ty
+Miałaś 18 lat
+Wolna jak wiosenny wiatr
+Chciałem z tobą być 
+Szalone miałem sny
+Jak ty
+=$16
+$2 w3
+Dzisiaj został mi pył
+Zasuszony twój list
+Kilka wspomnień
+I więcej już nic
+Wtedy rajem świat był
+Nagle w pustkę znikł
+Lecz tej drogi rozwiały się sny
+Tamte wspomnienia
+Słony mają smak jak łzy
+=Ref.
+=$16
+=Ref.
+=$16
+#

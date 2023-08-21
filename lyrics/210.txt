@@ -1,0 +1,27 @@
+$1
+Tak doskonała, nie ma lepszej na świecie,
+zawsze marzyłem o takiej kobiecie, 
+wiem już na pewno i zdania nie zmienię,
+to z Tobą Kochanie czuje się jak w niebie.
+$R x2
+Aj aj aj aj aj,
+ta szalona dziewczyna która kręci mnie,
+aj aj aj aj aj 
+tylko ona jedyna, każdy chce ją mieć.
+=$solo + 1
+$2
+To wielka miłość i tego nie zmienię,
+Ty zawsze byłaś moim marzeniem,
+wiem doskonale, chce być blisko Ciebie,
+to w Tobie kochanie widzę cząstkę siebie. 
+=Ref.
+=$solo
+$b
+Ta szalona dziewczyna...
+(uuuuu)
+Tylko ona jedyna...
+(uuuuu)
+Tylko ona jedyna...
+=$1
+=Ref.
+#        

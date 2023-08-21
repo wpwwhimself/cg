@@ -1,0 +1,30 @@
+ewelina
+Głośniej
+Idą, idą, za Brygidą…
+$1
+O Tobie mówi każdy z nas
+Szalona Ola, olala
+Spojrzeniem kusi, kręci mnie
+Oj chyba zakochałem się.
+$p
+La la la, Ola ma
+Ma to coś czego nie mam ja.
+$R x2
+Co za dziewczyna taka jedyna
+Ona ma w sobie taką moc
+Zabiorę ją postawię wino
+I będzie już moją dziewczyną.
+=$8
+$2
+Ola cudna jest jak kwiat
+Który kwitnie z biegiem lat
+I to teraz powiem tu
+Olu, Olu I love you.
+=pre.
+=Ref.
+$b
+Co za dziewczyna…
+Zabiorę ją…
+*Idą, idą, za Brygidą…
+=Ref. raz
+#

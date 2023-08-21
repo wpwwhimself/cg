@@ -1,0 +1,128 @@
+/* * * * * *
+ * CSS Czarnych Gruszek
+ * Revised
+ * * * * * */
+body{
+	background-color: #333;
+	font-size: 13px;
+	color: white;
+	font-family: "Calibri", "Arial";
+	margin: 0;
+	text-align: center;
+}
+a{
+	color: inherit;
+	text-decoration: none;
+	transition: color 0.3s;
+}
+h1, h2, h3{
+	text-align: center;
+	margin: 0;
+}
+h2{color: #09f}
+
+table{
+	width: 100vw;
+	margin: 10px auto;
+	background-color: black;
+	border:none;
+	border-collapse: collapse;
+	text-align: center;
+	font-size: 12px;
+}
+.insert textarea{
+    background-color: #00000000; color: white;
+    border: 3px double #09f; border-radius: 5px;
+    width: 100%; height: 250px;
+}
+.insert .tick{
+    color: lime;
+    text-shadow: 0 0 5px white;
+    opacity: 0;
+}
+.insert .ticked{
+    animation: vanish 2s 1;
+}
+.insert iframe{
+    width: 100%; height: 250px;
+}
+@keyframes vanish{
+    0% { opacity: 0; }
+    33% { opacity: 1; }
+    67% { opacity: 1; }
+    100% { opacity: 0; }
+}
+.insert .mobilefloat{
+    position: fixed; top: 0; left: 0;
+}
+.insert .r{ background-color: #ff000077; }
+.insert .g{ color: gray; font-style: italic; }
+td{padding: 2px 5px;}
+th{background-color: #09f;}
+tr:nth-child(even){background-color: #222;}
+tr:nth-child(odd){background-color: #111;}
+tr:hover{background-color: #333;}
+td .details{
+	float: right;
+}
+.separator{
+	background-color: #07d;
+	color: #f90;
+}
+.title{text-align: left;}
+.title::first-letter{font-weight:700}
+.artist{
+    font-size: 0.7em;
+    font-style: italic;
+    color: gray;
+    margin-left: 6px;
+}
+.counterWerfer, .timerWerfer{color: #f90;}
+
+.flex2{
+	display: flex;
+	justify-content: center; align-items: center;
+	flex-wrap: wrap;
+}
+
+.details span{ cursor: pointer; transition: color 0.3s; margin: 0 10px;}
+
+.hint{
+    position: absolute; left: 200px; top: 0;
+    margin: 0;
+    font-size: 0.7em; font-style: italic;
+    width: 200px;
+    text-align: left;
+}
+
+footer{
+	padding: 20px 10px;
+	background-color: black;
+	color: dimgray;
+	border-top: 5px solid gray;
+}
+footer a{ color: white}
+
+#patchnotes{ display: block; max-width: 700px; margin: auto; }
+#patchnotes h2{ border-top: 1px solid #09f; }
+#patchnotes h3{ text-align: left; }
+#patchnotes ul{ text-align: left; margin: 0 auto 20px; }
+
+@media screen and (min-width: 850px){
+	table{
+		max-width: 800px;
+		border: 3px double #09f;
+		font-size: 1.3em;
+	}
+	h1{ font-size: 70px; }
+	h2{ font-size: 35px; }
+	a:hover, .details span:hover{ color: #09f; }
+	.details span{margin: 0;}
+	
+	.insert textarea, .insert iframe{
+	    width: 700px; height: 60vh;
+	}
+	.insert .mobilefloat{
+        position: static;
+    }
+}

@@ -1,0 +1,37 @@
+Podgłośnić!
+=$6
+=$temat x4
+$1
+Bałkańska w żyłach płynie krew,
+Kobiety, wino, taniec, śpiew.
+Zasady proste w życiu mam,
+Nie rób drugiemu tego, czego ty nie chcesz sam!
+=$temat x4
+$
+Muzyka, przyjaźń, radość, śmiech.
+Życie łatwiejsze staje się.
+Przynieście dla mnie wina dzban,
+Potem ruszamy razem w tan!
+=$2
+$R x2
+Będzie! Będzie zabawa!
+Będzie się działo!
+I znowu nocy będzie mało.
+Będzie głośno, będzie radośnie
+Znów przetańczymy razem całą noc.
+=$1
+$2
+Orkiestra nie oszczędza sił
+Już trochę im brakuje tchu.
+Polejcie wina również im
+Znów na parkiecie będzie dym!
+=$temat x4
+$
+Bałkańskie rytmy, polska moc!
+Znów przetańczymy całą noc!
+I jeszcze jeden, malutki wina dzban,
+I znów ruszymy razem w tan!
+=$solo 4+4
+=Ref.
+=$temat x1+1
+#

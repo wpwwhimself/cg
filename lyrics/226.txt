@@ -1,0 +1,30 @@
+EWELINA (0)
+$i x2
+Tańczę z nim do rana
+=Ref. (druga połowa)
+$1
+Sobota, wieczór, jestem już gotowa %0 0 cccr|0h0a0g0g|----0 hh|-c--|
+Zamknę za sobą tylko drzwi. %0 0 cccr|0h0a0g0g|----|
+Zaczynam dzisiaj życie swe od nowa
+Dzisiaj zatańczę właśnie z nim. Oooo. %0 0 cccc|0h0a0g0c|--- HCHC=
+$R
+Tańczę z nim do rana
+Chcę być dziś porwana.
+Tańczę z nim do rana
+Jestem zakochana.
+$
+Tańczę z nim do rana,
+Będę niewyspana.
+Tańczę z nim do rana
+Tańczę z nim.
+=$solo
+$2
+Przy nim najmocniej czuję się kochana
+Tylko dla Niego tańczyć chcę.
+Ta Nasza noc znów będzie nieprzespana 
+Dobrze to wiem, on kocha mnie.
+=Ref.
+=$solo
+=intro
+=Ref.
+#

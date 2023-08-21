@@ -1,0 +1,24 @@
+$R x2
+Hey hey baby (hu ha). 
+I wanna know if you be my girl. 
+$1
+When I saw you walking down the street. 
+I sad that's the kind of girl I like to meet. 
+She's so pretty, look she's fine. 
+I'm gonna make her my all mine. 
+=Ref.
+=-4 (tymczasowo)
+$2
+When you turn and walk away 
+that's where I want to say
+come on a baby, give me a word
+I wanna know I wanna know-ow-ow! 
+When you turn and walk away 
+that's where I want to say
+come on a baby, give me a word
+I wanna know if you be my girl. 
+=Ref.
+=Ref. (raz)
+=+1
+=Ref. x2
+#

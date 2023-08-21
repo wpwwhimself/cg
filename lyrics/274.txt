@@ -1,0 +1,42 @@
+=$4
+$1 w3
+Wydaje się to niemożliwe %g|mmmmmg-h|-a-0
+A przecież to już tyle pięknych lat %mmm|rrrmr-ch|---0
+I każde słowo tak prawdziwe
+Buduje między nami cudny świat
+$ w1
+Co jutro będzie, tego nie wiem %h|ccccrm-m|-h--0
+Zagadką jest kolejny dzień %g|ccccrm-r|---0
+Wiem tylko, że dziś mamy siebie
+Dziś tylko to na pewno jest
+$R
+@121To, co na zawsze między nami %AAA|A-GG-F-F|-G-0
+Dodaje wiary w lepszy czas %ppp|p-mm-r-m|---0
+Choć razem ciężko jest chwilami %HHH|H-AA-G-G|-A-0
+Idziemy dalej, bo mamy nas %GGG|GF-FFG-F|---0
+Bo w naszych sercach ciągle ogień
+@131Choć tak niewielu wierzy w to %HHH|H-AA-G-A|---0
+@111Ważne, by ufać zawsze sobie %lll|l-ss-p-p|-c-0
+@121A wtedy łatwiej żyć i razem iść przez świat %mmm|m-rr-0cc|-r-r-m-m=--0
+=$2
+$2 w1
+Czasami czytam stare listy
+Na zawsze już zachowam je %m|rrrmrc-h|---0
+Już ciągle jesteś mi tak bliski
+Przy tobie nic nie martwi mnie
+$ w3
+Co jutro będzie, tego nie wiem
+Zagadką jest kolejny dzień
+Wiem tylko, że dziś mamy siebie
+Dziś tylko to na pewno jest %ccc|c-0ccr-r|---0
+=$1
+=Ref.
+=$2
+$b
+@001Dziękuję ci za każde słowo %h|ccccrm-m|-r--0
+@100Dziękuję ci za każdy dzień %h|ssslsp-m|---0
+@101Niech wiecznie trwa ta bajka w pięknym śnie %h|cc-c--0c|cc-r-m-p|---0
+=+2
+=$8 solo
+=Ref. druga połowa
+#

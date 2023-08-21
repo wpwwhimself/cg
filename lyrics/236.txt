@@ -1,0 +1,33 @@
+głośniej!
+%4 + 8 + 1,0ddddefedC=a-aaag0a|0d0defed|r0rrcg0a|0a0aahcf|,r0rrcg0a|--0aahca|h0hhae-f|--0defed=
+$1
+W Warszawie na Starym Mieście 
+Spotkałem ją w środku dnia
+Nie było dane mi jeszcze 
+Widzieć tak pięknej jak ta.
+Był grudzień, była sobota, 
+Mój los z jej losem się zbiegł,
+A na jej jaskrawych włosach 
+Mienił się tylko śnieg.
+$R w3 x2
+Najpiękniejsza dziewczyno o włosach blond
+Zabierz mnie proszę daleko stąd.
+Zabierz mnie dziś na nieznany ląd,
+Najpiękniejsza dziewczyno o włosach blond.
+=$1 + 8 + 1
+$2
+I dla mnie nie ma już innej 
+To moja droga do gwiazd,
+Przez tamtą zimową dziewczynę 
+Inaczej płynie mi czas.
+W Warszawie na Starym Mieście 
+Los przeciął mnie niczym nóż
+I w moim sercu jest miejsce 
+Dla jednej jedynej i już.
+=Ref.
+=$1 + 8 + 1
+=Ref. tylko raz
+=$1
+=+2
+=Ref. (z opóźnieniem)
+#

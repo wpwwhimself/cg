@@ -1,0 +1,36 @@
+Tempo 100, głośniej
+$R x2
+@151(Ja) Dałem ci kamień z wielkim LOVE
+No, bo kwiaty szybko schną 
+Jedyne, co ci mogłem dać 
+To kamień z napisem LOVE
+=$2
+$1
+W jubilerskim dziale
+Wszystko drogie tam
+Kupiłbym korale jedne, może dwa 
+I pokochałabyś, i uwielbiałabyś
+Lecz na szyi dalej będzie nic
+=Ref.
+=$2
+$2
+Mam już parę złotych
+Zbieram drugą noc 
+Dałbym tobie kwiatów nawet cały kosz
+I tak kochałabyś, i pogłaskałabyś
+Potem z głodu łokcie będę gryźć 
+=Ref.
+=$2
+$3
+Ale ta historia ma też happy end
+Bo ten zwykły kamień, okazało się
+Że on ze złota był
+To chyba mi się śni
+Jedno wyjście pozostało mi
+(Sorry mała)
+$R' x4
+Zabrałem ci kamień z wielkim LOVE
+Teraz mam milionów sto 
+A tobie dam, co chciałaś mieć
+Te kwiaty za złotych pięć
+#

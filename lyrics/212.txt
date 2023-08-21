@@ -1,0 +1,27 @@
+EWELINA (+0)
+=$temat, spokojnie, x0,5
+=$temat, żwawo
+$1
+Jesce jo se nie wiem
+ka moje kochanie,
+kiedy sie mi jaki 
+chłopocek dostanie.
+$R x2
+@115Takiego Janicka serdusko by chciało 
+coby se zatońcył, zaśpiewoł wesoło.
+=$temat
+$2
+Moze jest tu blisko
+a moze daleko,
+kiedy sie to moje
+serdusko doceko.
+=Ref.
+=$temat
+$3
+Zawseś mi matusiu
+jedno powtorzała,
+zebyk sie w bogactwie
+nigdy nie kochała.
+=Ref.
+=$temat
+#

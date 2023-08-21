@@ -1,0 +1,21 @@
+$1 w2
+Miała matka syna, syna jedynego, 
+Chciała go wychować na pana wielkiego .
+$R x2 
+Niech żyje wolność, wolność i swoboda, 
+Niech żyje zabawa i dziewczyna młoda. 
+$2 w3
+Jak go wychowała, wypielęgnowała 
+I do poprawczaka oddać go musiała. 
+=Ref. 
+$3 w2
+Jak go zabierali, muzyka mu grała, 
+Ludziska się śmiali, dziewczyna płakała.
+=Ref.
+$4 w3
+Oj, wy, ludzie, ludzie, co wy tu robicie, 
+Zabieracie chłopca mi na całe życie. 
+=Ref.
+=1. (W)
+=Ref.
+#

@@ -1,0 +1,29 @@
+Głośno!
+=$temat
+$1
+Kto się chociaż raz zakochał
+ten na pewno o tym wie.
+Nie należy pytać panny
+czy całować ją czy nie.
+$R x2
+Jeśli kochasz nie pytaj o wiek.
+Jeśli kochasz to kochaj ile chcesz.
+Jeśli kochasz to całuj nie raz,
+bo jak już kochać to na pełen gaz. 
+=$temat
+$2
+Oczy po to są by patrzeć,
+by zamykać je do snu. 
+Usta po to by całować
+je na każdym rendez-vous. 
+=Ref.
+=$temat
+$3
+Umówiłem się z dziewczyną,
+taką piękną niczym cud. 
+Po minucie już wiedziałem, 
+że ma usta tak jak miód. 
+=Ref.
+=$temat
+=Ref.
+#

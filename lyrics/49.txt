@@ -1,0 +1,41 @@
+Dźwięk "E" dla próbki
+$1
+Hej, tam gdzieś znad czarnej wody
+Siada na koń kozak młody,
+Czule żegna się z dziewczyną,
+Jeszcze czulej z Ukrainą.
+$R
+Hej, hej, hej sokoły
+Omijajcie góry, lasy doły,
+Dzwoń, dzwoń, dzwoń dzwoneczku,
+Mój stepowy skowroneczku.
+Hej, hej, hej sokoły
+Omijajcie góry, lasy doły,
+Dzwoń, dzwoń, dzwoń dzwoneczku,
+Mój stepowy skowroneczku, dzwoń!
+$2
+Pięknych dziewcząt jest niemało,
+Lecz najwięcej w Ukrainie,
+Tam me serce pozostało,
+Przy kochanej mej dziewczynie.
+=Ref.
+$3
+Ona biedna tam została,
+Przepióreczka moja mała,
+A ja tutaj w obcej stronie,
+Dniem i nocą tęsknię do niej.
+=Ref.
+=$solo
+$4
+Żal, żal za dziewczyną,
+Za zieloną Ukrainą,
+żal, żal serce płacze,
+że jej więcej nie zobaczę.
+=Ref.
+$5
+Wina, wina, wina dajcie
+A jak umrę pochowajcie
+Na zielonej Ukrainie
+Przy kochanej mej dziewczynie.
+=Ref.
+#

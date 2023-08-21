@@ -1,0 +1,30 @@
+głośniej! EWELINA (+0)
+=$7 + 4 + 8
+$1
+Znowu ktoś mnie podgląda,
+Lekko skrobie do drzwi. 
+Strasznym okiem cyklopa,
+Radzi, gromi i drwi!
+$R
+Mój jest ten kawałek podłogi,
+Nie mówcie mi więc, co mam robić!
+Mój jest ten kawałek podłogi,
+Nie mówcie mi więc, co mam robić!
+=$8
+$2
+Meble już połamałem,
+Nowy ład zrobić chcę.
+Tynk ze ścian już zdrapałem,
+Zamurować czas drzwi!
+=Ref.
+=$16
+=Ref.
+=$8
+$3
+Wielkie dzieło skończyłem,
+Głód do wyjścia mnie pcha.
+Prężę się i napinam,
+Lecz mur stoi jak stał.
+=Ref.
+%coda,HCCC00|HCCC00|F--=
+#

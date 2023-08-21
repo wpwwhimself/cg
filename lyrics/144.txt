@@ -1,0 +1,38 @@
+=$temat
+$1
+Szła dzieweczka do laseczka
+$ x3
+Do zielonego
+$
+Napotkała myśliweczka
+$ x3
+Bardzo szwarnego
+$R
+Gdzie jest ta ulica, gdzie jest ten dom
+Gdzie jest ta dziewczyna
+Co kocham ją.
+Znalazłem ulicę, znalazłem dom
+Znalazłem dziewczynę
+Co kocham ją.
+$2
+Myśliweczku, kochaneczku
+$ x3
+Bardzom ci rada
+$
+Dałabym ci chleba z masłem
+$ x3
+Alem go zjadła
+=Ref.
+=+1
+=$temat
+$3
+Jak żeś zjadła, to żeś zjadła
+$ x3
+To mi się nie chwal
+$
+Jakbym znalazł kawał kija,
+$ x3
+To bym cię wyprał.
+=Ref. x2
+=$temat
+#

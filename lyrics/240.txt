@@ -1,0 +1,35 @@
+=$2
+$R
+@145Ty mała znów zarosłaś, 
+Mała, znów zarosłaś
+Zapachniałaś, zajaśniałaś tak jak wiosna
+Ty mała znów zarosłaś, 
+Mała, znów zarosłaś
+I do tego ja znalazłem w tobie osta
+$1
+Dwie dekady walka trwa
+Kosił ojciec, koszę ja
+Ale przyznam się, że lubię tę robotę
+Najważniejszy dziarski duch
+Silny, pewny, mocny ruch
+Skoszę teraz, a zagrabię sobie potem
+=Ref.
+$2
+Radę wszystkim dzisiaj da
+Moja kosa 42
+Trzy koniki i cóż więcej można chcieć
+Wszystkie pędy słabe, chore
+Potraktuję sekatorem
+Piękny trawnik dzisiaj mała będziesz mieć
+=+2
+=Ref.
+$3
+Przyznam szczerze, że mam wprawę
+I przeczochram ci murawę
+Długość trawy idealna na dwa palce
+Kretowiska w zieleń zmienię
+I posypię je nasieniem
+A na koniec cię przejadę moim walcem
+=$2
+=$solo
+#

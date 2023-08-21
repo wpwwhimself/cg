@@ -1,0 +1,36 @@
+=$2
+=Ref. raz
+$b
+Jesteś taka jak ja, oo
+Ja taki jak Ty, oo
+Jesteś taka jak ja, oo 
+Ja taki jak Ty.
+=Ref. raz
+$1
+Niebanalne sytuacje
+Niepotrzebne prowokacje
+Każda z nich ma jakiś głębszy sens
+$p
+@041A gdy ciemno robi się
+To jeszcze mocniej, mocniej do Ciebie chcę
+$R x2
+Jesteś taka jak ja, lubisz to lubisz
+Troszkę pomarudzisz, później jest jak jest
+A ja tak jak Ty, lubię to lubię
+Może trochę się gubię, taki jestem wiesz.
+$
+Jesteś taka jak ja
+=$8
+$2
+Małą nutkę arogancji
+Odrobinę ignorancji
+I fantazji nie bój dodać się
+=pre.
+=Ref.
+=$2
+=+2
+=Ref. raz
+=$2
+=Ref. raz
+=$8
+#

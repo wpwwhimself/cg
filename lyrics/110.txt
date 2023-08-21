@@ -1,0 +1,35 @@
+=$8 + 1
+$1
+Samotność zwykle swe granice ma
+Zanika pustka, szarość czterech ścian.
+Niesforny los chce złączyć drogi dwie,
+By odnalazły życia swego cel.
+$p
+@051Uczucie, które łączy serca dwa
+Choroba duszy, przyciąganie ciał.
+@001Twój każdy ruch wciąż uświadamia mnie
+Rozumiem, że to właśnie miłość jest.
+$R x2
+@531Ona jest taka cudowna
+Niewinna i słodka.
+Gdy Ciebie też spotka
+To wtedy już wiesz.
+Ona jest taka cudowna
+Rozpala i wciąga.
+Jak wiara niezłomna
+To piękna jest rzecz.
+$
+Ona jest taka cudowna.
+=$8 + 1
+$2
+Kolacja, kino, spacer pośród drzew
+Niewinny dotyk i spojrzenie Twe.
+Lawina myśli, trudno przyznać się,
+Że tego dnia spotkało właśnie mnie.
+=pre.
+=Ref.
+$ x3
+Ona jest taka cudowna
+=$8 + 8
+=Ref.
+#

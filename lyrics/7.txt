@@ -1,0 +1,35 @@
+Ewelina (-2)
+=$4
+$1
+Jedziemy autostopem
+Jedziemy autostopem
+W ten sposób możesz, bracie
+Przejechać Europę
+Gdzie szosy biała nić
+Tam śmiało, bracie, wyjdź
+I nie martw się, co będzie potem
+$R x2
+Autostop, autostop
+Wsiadaj, bracie, dalej, hop
+Rusza wóz, będzie wiózł
+Będzie wiózł nas dziś ten wóz
+$2
+Jedziemy autostopem
+Jedziemy autostopem
+Ech, udał się nam dzisiaj
+Wóz ten i jego szofer
+Choć deszcz zaczyna mżyć
+Nam szosy biała nić
+Ucieka wciąż spod kół galopem
+=Ref.
+$3
+Jedziemy autostopem
+Jedziemy autostopem
+Cóż dla nas znaczy pociąg
+Na spółkę z samolotem
+Gdzie szosy biała nić
+Tam chce się, bracie, żyć
+Czy naprzód jedziesz, czy z powrotem
+=Ref.
+=$8
+#

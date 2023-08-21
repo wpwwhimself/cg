@@ -1,0 +1,32 @@
+Oznaczone cz. x3
+$R
+Mili goście tort weselny kroić czas.
+Niechaj każdy go skosztuje chociaż raz.
+niech go kroją ręce młodych dla osłody,
+a upieką taki sam na złote gody.
+$1
+Pierwsza porcja ukrojona *dla rodziców,
+Niech go jedzą, niech kosztują,
+młodym szczęścia nie winszują
+I śpiewają z nami tak.
+=Ref.
+$2
+Druga porcja ukrojona *jest dla chrzestnych
+Niech go jedzą, niech kosztują,
+młodym szczęścia nie winszują
+I śpiewają z nami tak.
+=Ref.
+=+?
+$3
+Trzecia porcja ukrojona *jest dla dziadków
+Niech go jedzą, niech kosztują,
+młodym szczęścia nie winszują
+I śpiewają z nami tak.
+=Ref.
+$4
+Czwarta porcja ukrojona *jest dla gości
+Niech go jedzą, niech kosztują,
+młodym szczęścia nie winszują
+I śpiewają z nami tak.
+=Ref.
+#

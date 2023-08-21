@@ -1,0 +1,45 @@
+EWELINA (-3)
+Zwrotki odwrotny tryb biesiadny
+Zmniejszyć potem tempo na 150
+$1
+O świcie i o zmroku 
+W południe, w nocy, o świcie 
+W Skarżysku i w Sanoku 
+Ty mnie pokochaj nad życie 
+W berecie, w czapce, chustce 
+W czapce od stryjka ze Lwowa 
+Na falochronie w Ustce 
+Ty mnie pokochaj od nowa
+$R
+W kinie, w Lublinie – kochaj mnie 
+W Kłaju, w tramwaju – kochaj mnie 
+Nie marudź, nie szlochaj,
+ale z całej siły kochaj 
+W gminie, w Kętrzynie – kochaj mnie 
+W metrze i w swetrze – kochaj mnie 
+Czy miasto czy wiocha, ty mnie z całej siły kochaj 
+$2
+W radości no i w smutku 
+W radości z ciepłego lata 
+Na piasku plaży, w Gródku 
+Kochaj mnie do końca świata 
+W spokoju oraz w niebie
+W spokoju palmowych niedziel 
+W Marwałdzie i w Giętlewie 
+Kochaj w bogactwie i w biedzie 
+=Ref.
+=$4
+$3
+Jak młody ułan dzielnie 
+Jak wartki na wiosnę strumień 
+Na nartach wodnych w Mielnie 
+Kochaj najmocniej, jak umiesz 
+Latem w przydrożnym rowie 
+Zimą na sankach i nartach 
+Najmocniej zaś w Krakowie 
+Kochaj, bom tego jest warta 
+=Ref.
+=$refren
+=+2
+=$temat
+#

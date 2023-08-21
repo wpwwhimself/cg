@@ -1,0 +1,39 @@
+EWELINA
+$1 w1
+A part of me | Is feeling weak
+I took a chance, but now it feels so hard to breathe
+A leap of faith | Now haunting me
+What happened to the words "it's always you and me"
+$ w2
+I wanna feel alive
+When I'm running through my life
+So help me to ignite
+This spark I feel inside
+So help me now
+$B
+Light me up, Light me up now, baby
+Light me up, Tell me where to go
+Light me up, Light me up now, baby
+Light me up And tell me where to go
+*-3-
+$
+Tell me where to go
+*-3-
+$
+And tell me where to go
+=$16 + 1
+$2 w1
+I’m fading now | Of real life
+Misguided by the way they say I have to live
+So bring me back | Back to the place
+Where my heart can finally reveal its face 
+$ w2
+I wanna feel alive
+When I'm running through my life
+So help me to ignite
+This spark I feel inside
+So help me now
+=Build
+=$8
+=Build, 1. połowa
+#

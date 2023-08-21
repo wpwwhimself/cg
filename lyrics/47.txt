@@ -1,0 +1,26 @@
+$1
+Stoi pociąg na stacji, na drugim peronie 
+Za minutę odjedzie już go nie dogonię 
+W tym pociągu jedziesz ty machasz do mnie ręką 
+Czuję, że zostałem sam ze swoją piosenką.
+$R w1 x2
+Hej czy ty wiesz, że ja się w tobie kocham? 
+Hej czy ty wiesz, że to poważna rzecz?
+Hej czy ty wiesz, że zdjęcia twe oglądam?
+Hej szkoda, że już nie zobaczę Cię!
+=$temat
+$2
+Tak zostałem na stacji na drugim peronie, 
+Błąkam się pośród ludzi i w marzeniach tonę 
+Już powoli skręca mnie, coś się ze mną dzieje 
+Już nie mogę dłużej tak chyba oszaleję.
+=Ref.
+=$temat
+$3
+Tak minęło już parę lat, gdy straciłem wiarę, 
+Wszystko we mnie wymarło błąkam się niedbale 
+Nagle patrzę co za cud, błysnął we mnie płomień 
+Znów na stacji stoisz ty na drugim peronie.
+=Ref.
+=$temat
+#

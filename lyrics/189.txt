@@ -1,0 +1,35 @@
+EWELINA (+5)
+$i
+Nadchodzi wielkim krokiem 
+Kolejny rok za rokiem 
+I znowu przyszło lato 
+Powiedzcie co Wy na to. 
+Jedziemy wszyscy razem 
+Będziemy spać na plaży, 
+Wieczorem tańczyć w disco, 
+Bo latem można wszystko... 
+$1
+Ty i ja i muzyka gra 
+I wszyscy razem tańczą. 
+Ty i ja to lato jest w nas 
+Pachnące słodką pomarańczą 
+$R x2
+Nadeszło w porę lato 
+Powiedz mi co Ty na to? 
+Słoneczko ładnie tańczy 
+Ma kolor pomarańczy 
+Przy Tobie zaraz płonę 
+Twe ciało opalone 
+Całuje kiedy tańczy 
+Bo smak ma pomarańczy
+=$8
+$2
+Ty i ja i letni wiatr 
+Co dookoła wszystkich tańczy. 
+Ty i ja i zabawa trwa 
+pod znakiem letniej pomarańczy... 
+=Ref.
+=$8
+=Ref.
+=$8
+#

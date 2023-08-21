@@ -1,0 +1,35 @@
+Basy do góry
+=$16
+$1
+Poznałem kiedyś dziewczynę
+I zakochałem się w niej
+Dla niej tylko żyć chciałem%0sssps|lsp-|
+Ona mówiła mi, że:%ss0ssmr-|c--=
+$R
+@012Że nie dla mnie jest chłopak z gitarą 
+Nie dla mnie taki jak ty 
+Gitara twoja jest brzydka 
+Śliczny jesteś Ty 
+Że nie dla mnie jest chłopak z gitarą 
+Nie dla mnie taki jak ty 
+Piosenki twoje są brzydkie 
+Śliczny jesteś Ty
+=$16
+$2
+Poszliśmy raz sobie na spacer
+Trzymałaś za rękę mnie
+Szeptałaś mi czułe słowa 
+Na dobranoc mówiłaś mi że:
+=Ref.
+=$2 + 16
+$3
+Gdy byłem u Ciebie wieczorem
+Trzymałaś za rękę mnie 
+Szeptałaś mi czułe słowa 
+Na dobranoc mówiłaś mi, że:
+=Ref.
+=$16
+=1.
+=Ref.
+=$2 + 16 (do wyciszenia)
+#                

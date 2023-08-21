@@ -1,0 +1,30 @@
+Ewelina (+0)
+=$temat
+$1
+Dobry denʹ, vitaye tebe radio 
+@510antykomercyjne*
+A pohoda bude duze parno
+i psychodeliczne*
+$p
+I skazhu kozhen raz ko|ly mene ne ma 
+Pokazhu de pryyty, de zelena voda 
+Podaruye ti neperespani dni 
+Dobryy denʹ mersi, Dobryy denʹ tobi
+=$2
+$R x2
+Dobry denʹ, Dobry denʹ
+Tu twoje radio Hello Hello
+=$temat
+$2
+Peredacha druha, druha optsiya
+zovsim ne etychna*
+Na efiri hraye tvoya muzyka 
+monotematychna*
+=pre.
+=$2
+=Ref.
+=$solo + 4
+=Ref.
+=+2
+=Ref. x2
+#

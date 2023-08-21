@@ -1,0 +1,16 @@
+Ewelina (-1)
+$1
+Ta dziewczyna jest inna, ma niebieskie oczy, 
+Różową sukienkę, kocham tylko ją. 
+$R x4
+@151Jaki piękny świat, jaki piękny świat,
+gdy się ma dwadzieścia lat.
+$2
+Po co więc się krzywisz, swoją buźką kręcisz, 
+Ja tylko do ciebie długie listy ślę. 
+=Ref.
+$3
+Nałóż więc sukienkę, swoje białe butki, 
+Uśmiechnij się do mnie, bo to dobry znak. 
+=Ref.
+#

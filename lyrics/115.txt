@@ -1,0 +1,35 @@
+$1
+Gdy Cie pierwszy raz ujrzałem,
+Wielkim tirem zajechałaś.
+Ja się w Tobie zakochałem,
+Lecz ty na mnie, lecz ty na mnie,
+Nie spojrzałaś.
+$R w3
+Plastikowa biedronko,
+Ty moja kochana.
+Zostań moją żonką,
+Błagam Cię, Proszę Cię
+Na kolanach.
+$2
+Do biedronki przyszedł żuk,
+W okieneczko stuku - puk.
+A biedronka cicho chrząka,
+Spadaj żuczku, spadaj żuczku,
+Ja mam bąka.
+=Ref.
+$3
+Ja Ci miłość swą wyznałem,
+Ty z szympansem mnie zdradziłaś.
+Ja Ci wtedy pokazałem,
+Jaka jest, jaka jest
+Pingwina siła.
+=Ref.
+=$10 + 10 + 1,5
+$4
+To już koniec tej piosenki.
+Mój ty widzu ukochany.
+Jeśli Ci się spodobało,
+To zaśpiewaj, to zaśpiewaj,
+Razem z nami.
+=Ref. x2, fermata
+#

@@ -1,0 +1,34 @@
+=$temat
+$1
+Coś jakby się zaczęło u nas psuć,
+I coraz mniej już słyszę ciepłych słów,
+Jak gdyby nagle chłodny powiał wiatr
+Pośród naszych ciepłych uczuć.
+Znów nas ogarnął niepokoju strach,
+Gdy o coś pytam, tylko spuszczasz twarz,
+Jeżeli coś planujesz, miła ma, 
+Pomyśl najpierw, nim coś zrobisz!
+$R
+Kto więcej serca ci da,
+Kto pocieszy, gdy masz ciężki dzień?
+No, który jeśli nie ja
+Wszystkie troski twe odrzuci w cień?
+Kto więcej serca ci da,
+Kto wytrzyma z twym humorem wciąż?
+No, który jeśli nie ja
+Zrobi taki nierozważny krok?
+=$temat
+$2
+Ja wiem, że kusi każda nowa twarz,
+Że coś nieznane obiecuje raj,
+Lecz statystycznie jeszcze szanse masz
+Na przelotny tylko romans.
+Więc dobrze się zastanów, póki czas,
+Czy z tą decyzją to naprawdę tak,
+Bo może już po paru tylko dniach
+Znowu przyjdzie się pokochać.
+=Ref.
+=$temat
+=Ref. x2
+=$temat
+#

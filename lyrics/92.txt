@@ -1,0 +1,23 @@
+Ewelina (+2)
+$A
+Para bailar la Bamba, 
+Para bailar la Bamba, Se necesita
+una poca de gracia,
+Una poca de gracia, Pa mi y pa ti 
+Ay arriba arriba
+$
+Ay arriba arriba Por ti seré,
+por ti seré, por ti seré.
+$B
+Yo no soy Marinero, 
+Yo no soy Marinero, Soy Capitan,
+soy Capitan, soy Capitan.
+$R x3
+Bamba, la bamba
+=$1
+=A (tylko góra)
+=$solo, które trwa niewiadomoile
+=$3
+=A
+=Ref.
+#

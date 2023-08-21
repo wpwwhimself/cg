@@ -1,0 +1,49 @@
+$i w3
+Now I've had the time of my life
+No, I never felt like this before
+Yes I swear, it's the truth
+And I owe it all to you
+$ w1
+'Cause I've had the time of my life
+And I owe it all to you
+=$4
+$1
+@001I've been waiting for so long
+Now I've finally found someone to stand by me
+@100We saw the writing on the wall
+As we felt this magical fantasy
+@501Now with passion in our eyes
+There's no way we could disguise it secretly
+So we take each other's hand
+'Cause we seem to understand the urgency
+@001Just remember
+$p
+@100You're the one thing
+@001I can't get enough of
+@100So I'll tell you something
+@101This could be love @103because
+=Ref. połowa
+=$4
+$2
+@100With my body and soul
+I want you more than you'll ever know
+@001So we'll just let it go
+Don't be afraid to lose control, no
+@100Yes, I know what's on your mind
+When you say, "Stay with me tonight"
+@001Stay with me / Just remember
+=pre. (wokale odwrotnie)
+$R
+@103I've had the time of my life
+No, I never felt this way before
+Yes, I swear, it's the truth
+And I owe it all to you
+$
+'Cause I've had the time of my life
+And I've searched though every open door
+'Til I found the truth
+And I owe it all to you
+=$5 + 10
+=intro (1. część)
+=Ref.
+#

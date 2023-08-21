@@ -1,0 +1,22 @@
+Ewelina (-3)
+%temat,Cfg|ag0a-Cfg|ag0f-dga|ha0h-dha|ag0g-:=
+$1
+Miałem raz dziewczynę, którą tak kochałem,
+Byłem z nią szczęśliwy, ze szczęścia płakałem.
+$R x2
+@145Jeśli kogoś kochasz, śmiej się z tego człowiecze.
+Jeśli płaczesz i szlochasz-wiadomo szczęście uciecze.
+=$temat
+$2
+Oczy miała czarne, usta czarujące,
+Całowałem włosy jaśminem pachnące.
+=Ref.
+=$temat
+$3
+Teraz już jej nie ma, odeszła ode mnie,
+Na próżno chodzę płacze-płacze na daremnie.
+=Ref.
+=$temat
+=Ref.
+=$temat
+#

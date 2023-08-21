@@ -1,0 +1,22 @@
+[28-Aug-2022 19:59:44 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 117
+[28-Aug-2022 19:59:44 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 118
+[28-Aug-2022 19:59:58 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 117
+[28-Aug-2022 19:59:58 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 118
+[28-Aug-2022 20:03:55 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 117
+[28-Aug-2022 20:03:55 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 118
+[26-Feb-2023 22:30:28 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 117
+[26-Feb-2023 22:30:28 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 118
+[26-Feb-2023 22:35:56 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 117
+[26-Feb-2023 22:35:56 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 118
+[27-Jun-2023 11:37:48 Europe/Warsaw] PHP Warning:  require(/home/p497635/public_html/cue.php): Failed to open stream: No such file or directory in /home/p497635/public_html/ni/cg/core/lyrics.php on line 3
+[27-Jun-2023 11:37:48 Europe/Warsaw] PHP Warning:  require(/home/p497635/public_html/cue.php): Failed to open stream: No such file or directory in /home/p497635/public_html/ni/cg/core/lyrics.php on line 3
+[27-Jun-2023 11:37:48 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Failed opening required '/home/p497635/public_html/cue.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/p497635/public_html/ni/cg/core/lyrics.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/p497635/public_html/ni/cg/core/lyrics.php on line 3
+[27-Jun-2023 11:37:55 Europe/Warsaw] PHP Warning:  require(/home/p497635/public_html/cue.php): Failed to open stream: No such file or directory in /home/p497635/public_html/ni/cg/core/lyrics.php on line 3
+[27-Jun-2023 11:37:55 Europe/Warsaw] PHP Warning:  require(/home/p497635/public_html/cue.php): Failed to open stream: No such file or directory in /home/p497635/public_html/ni/cg/core/lyrics.php on line 3
+[27-Jun-2023 11:37:55 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Failed opening required '/home/p497635/public_html/cue.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/p497635/public_html/ni/cg/core/lyrics.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/p497635/public_html/ni/cg/core/lyrics.php on line 3

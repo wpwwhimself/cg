@@ -1,0 +1,35 @@
+%4,fggggggg|%|%|RRCCHHAA=
+$1
+Poprzez naszą Białą Puszczę
+Szła studentów cała zgraja
+Gdy spotkali ładne dziewczę
+To się tak pytali zaraz:
+$R
+Czy Pani puszcza się… ta podoba?
+Czy Pani sekret ten wyznać chce?
+Czy Pani puszcza się ta podoba?
+Trochę na pewno, założę się
+Że Pani puszcza się ta podoba
+Że Pani sekret ten wyznać chce
+Że Pani puszcza się ta podoba
+Trochę na pewno, założę się
+=$15
+$2
+Ona na to zapytanie
+Czerwieniła się i bladła
+I od razu widać było
+Że studencka wiara zgadła
+=Ref.
+=$15
+$3
+Nawet w ludziach z dzikiej puszczy
+Kwitnie dobre wychowanie
+Nawet orkę przerywają
+By zapytać grzecznie panią:
+$R' x2
+Czy Pani puszcza się… ta podoba?
+Czy Pani sekret ten wyznać chce?
+Czy Pani puszcza się ta podoba?
+Pani mieszka w moim śnie
+=$16
+#

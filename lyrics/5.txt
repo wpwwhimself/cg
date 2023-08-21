@@ -1,0 +1,38 @@
+=$16
+$1
+Ali Baba, Arab z bajki,
+Nie chce wina ani fajki,
+Ali Baba śpi, choć gra muzyka.
+Ali Baba chrapie w barze,
+Choć Arlekin tańczyć każe,
+Chociaż prosi go w tę noc księżniczka:
+$R
+Obudź się, czarny Ali Babo,
+Zdmuchnij z brody resztkę snu,
+Obudź się, czarny Ali Babo,
+Zatańcz ze mną tam i tu, i tam, i tu.
+Obudź się, czarny Ali Babo,
+Razem dobrze będzie nam.
+Obudź się, czarny Ali Babo,
+Zatańcz ze mną tu i tam, i tu, i tam.
+$
+Półksiężyc już na niebie zgasł
+I słychać ptaków gwizd.
+Kto zatrzyma czas?
+Tylko twist, twist, twist!
+$
+Obudź się, czarny Ali Babo,
+Zdmuchnij z brody resztkę snu,
+Obudź się, czarny Ali Babo,
+Zatańcz ze mną tam i tu, i tam, i tu.
+$2
+Wtem księżniczka znika blada -
+I skończona maskarada,
+Na ulicy śnieg i wicher śwista,
+Ali Baba w paltociku,
+Bez czterdziestu rozbójników,
+Idzie sobie w świat i gwiżdże twista.
+=Ref.
+$o x4 
+Ali baba...
+#

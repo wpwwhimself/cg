@@ -1,0 +1,35 @@
+$i
+Kochanie bądź moją królową - wyjątkową...
+Kochanie bądź moją królową...
+=$1
+$R x2
+Kochanie bądź moją Królową, ja będę tylko z Tobą
+A ty bądź moją królową, taką wyjątkową !
+=$9
+$1
+Kiedy idę ulicą wszędzie widzę Twą twarz 
+Pragnę być zawsze blisko z Tobą zmieniać mój świat
+Jesteś moim marzeniem weną, której mi brak 
+Chciałbym poczuć Cię blisko poczuć ust Twych smak
+$
+Jesteś moim Aniołem jesteś jak nieba dar
+Tylko będąc przy Tobie wiem że coś jestem wart
+Bez Ciebie nie istnieje,
+Tylko z Tobą świat sie śmieje
+=$1
+=Ref.
+=$9
+$2
+Kiedy było mi smutno kiedy w oczy wiał wiatr
+Ty magicznym uśmiechem pozmieniałaś mój świat
+Twoje ciepło i dobroć wypełniają mnie
+Chcę wykrzyczeć słowa - Kocham Cię !
+$
+Widzę błysk w Twoich oczach gdy dotykasz mnie 
+Czuję zapach Twych perfum gdy przytulam Cię
+Ty dajesz mi nadzieje
+ja bez Ciebie oszaleję!
+=$1
+=Ref.
+=$16
+#

@@ -1,0 +1,28 @@
+%temat x2,ffahchaf|0f0ch-a-|ddfgagfd|0d0ag-f-|,gghcrchg|0g0rc-h-|CCefgfeC|0C0gf-e-=
+$1
+Auto mam, a w nim silniki dwa.
+Gdy glina ściga mnie, odpalam drugi też.
+$R
+Gaz, gaz, gaz, wciskam do dechy gaz,
+Gaz, gaz, gaz, policja goni nas,
+Gaz, gaz, gaz, wciskam do dechy gaz,
+Gaz, gaz, gaz, słychać syreny wrzask.
+=$temat
+$2
+Jadę więc przed siebie w cały kraj.
+Gdy wykroczenie mam, silniki włączam dwa.
+=Ref.
+=$temat
+$3
+Fajnie jest, ten pęd podnieca mnie.
+Gdy chcę mieć większy czad, włączam silniki dwa.
+=Ref.
+=$temat
+$4
+Ścigam się, niebiescy gonią mnie,
+A gdy to nudzi mnie, wyciskam trzysta pięć.
+=Ref.
+=$temat
+=Ref. x2
+=$temat x2
+#

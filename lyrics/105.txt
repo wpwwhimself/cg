@@ -1,0 +1,29 @@
+ewelina (-4)
+$1
+Czy to pan, czy to pan mi się dzisiaj śnił?
+Bardzo miły nawet był i dał mi cacko.
+Czy to pan tak cudowną posiada moc,
+Że smakuje nawet biednym ludziom noc?
+$
+Czy to pan, czy to pan mi się dzisiaj śnił?
+I przystojny bardzo był w zielonym Audi.
+Niby nic jakiś brylant i perły dwie.
+Tamten drobiazg aż do rana bawił mnie.
+$R
+@011Cały bym Paryż dał za tę noc z Renatą.
+@051Cały świat za tę noc z Renatą.
+@100Na loterię los i w San Francisco złoty most.
+@011Nawet bym księżyc dał za te noc z Renatą
+@051Cały świat za tę noc z Renatą.
+@100Pakuj kufry swe i jedźmy byle gdzie.
+$2
+Czy to pan, czy to pan mi się dzisiaj śnił?
+Gdy pamięcią sięgam wstecz to widzę pana.
+Proszę wpaść i na jawie też coś mi dać.
+A będziemy razem w nocnym kinie grać.
+=Ref.
+=$6
+=Ref.
+=+2
+=Ref.
+#    

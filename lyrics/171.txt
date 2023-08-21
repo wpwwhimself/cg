@@ -1,0 +1,24 @@
+EWELINA (+0)
+=$temat
+$1 x2
+Słoneczko zaszło, czyli zagasło, 
+czyli się skryło, hen, za borem. 
+$R x2
+W zielonym gaju ptaszki śpiewają, 
+ptaszki śpiewają pod jaworem.
+$2 x2
+Powiedzcie gwiazdki i ty, słoneczko, 
+coście widzieli tam, pod borem? 
+=Ref.
+$3 x2
+Marysia pasła, koniki pasła, 
+koniki pasła pod jaworem. 
+=Ref.
+$4 x2
+Wreszcie przyjechał jej ulubiony, 
+jej ulubiony z wojeneczki.
+$R' x2
+Maryś się cieszy, z radością spieszy 
+"Witaj, ach, witaj, Jasieńku mój!"
+=$temat
+#

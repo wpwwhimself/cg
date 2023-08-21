@@ -1,0 +1,17 @@
+EWELINA (-2)
+=$16
+$1
+Ludzie lubią być poważni, tak jak wrony nocą spać,
+ale mnie powaga drażni więc dlatego śpiewam tak,
+$R x2
+uśmiechnij sie choć raz, za uśmiech nie zapłacisz,
+uśmiechnij sie choć raz, z uśmiechem Ci do twarzy łoohoho
+=$1 + 16
+$2
+z uśmiechem Ci do twarzy, już wesołą mine masz,
+a gdy sie okazja zdarzy, śmiej sie z nami razem tak.
+=Ref.
+=$1 + 16
+=1.
+=Ref. x2.5
+#
