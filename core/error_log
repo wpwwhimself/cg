@@ -20,3 +20,5 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/p497635/public_html/ni/cg/core/lyrics.php on line 3
+[22-Aug-2023 00:48:07 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 117
+[22-Aug-2023 00:48:07 Europe/Warsaw] PHP Warning:  Undefined array key "bf" in /home/p497635/public_html/ni/cg/core/lyrics.php on line 118

@@ -100,7 +100,7 @@ fclose($plik);
 
 //frontend
 print "Udało się! Tekst do utworu „".$a['tytuł']."” został dodany.<br>Za chwilę nastąpi przekierowanie do edytora tekstu.</p>";
-print "<script>setTimeout(function(){ window.location.href = 'http://cg.audio-z.com.pl/lyricseditor.php?id=".$_GET['id']."'; }, 1000);</script>";
+print "<script>setTimeout(function(){ window.location.href = 'http://cg.audio-z.wpww.pl/lyricseditor.php?id=".$_GET['id']."'; }, 1000);</script>";
 }
 
 if($_GET['id'] != 0) print "<a href='lyricseditor.php?id=0' target='_blank'>Samouczek</a><br>";

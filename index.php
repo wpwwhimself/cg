@@ -3,7 +3,8 @@ session_start();
 require_once("auth.php");
 
 if(isset($_POST['klucz'])){
-	if($_POST['klucz'] == BACKEND_PASSWORD) $_SESSION['klucz'] = true;
+	$_SESSION['klucz'] = in_array($_POST['klucz'], [BACKEND_PASSWORD, BACKEND_PASSWORD_OBSERVER]);
+	$_SESSION['readonly'] = ($_POST['klucz'] == BACKEND_PASSWORD_OBSERVER);
 }
 
 if(!isset($_SESSION['klucz'])){?>
@@ -21,7 +22,7 @@ cgHead("Czarna gruszka");
 ?>
 
 <h1><a href=".">Targ czarnych gruszek</a></h1>
-<a href="http://cg2.audio-z.com.pl">Idź do kościelnego targu</a>
+<a href="http://cg2.audio-z.wpww.pl">Idź do kościelnego targu</a>
 <hr>
 
 <form method=get>

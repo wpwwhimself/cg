@@ -164,7 +164,7 @@ cgHead("Czarna gruszka");
 <h2>v2.2</h2>
 <h3>Targ</h3>
 <ul>
-<li>Zmieniono adres z &bdquo;audio-z.com.pl<b>/cg</b>&rdquo; na &bdquo;<b>cg.</b>audio-z.com.pl&rdquo;.</li>
+<li>Zmieniono adres z &bdquo;audio-z.wpww.pl<b>/cg</b>&rdquo; na &bdquo;<b>cg.</b>audio-z.wpww.pl&rdquo;.</li>
 </ul>
 <h3>Ładne Teksty™</h3>
 <ul>

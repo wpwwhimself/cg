@@ -3,7 +3,8 @@ session_start();
 require_once("auth.php");
 
 if(isset($_POST['klucz'])){
-	if($_POST['klucz'] == BACKEND_PASSWORD) $_SESSION['klucz'] = true;
+	$_SESSION['klucz'] = in_array($_POST['klucz'], [BACKEND_PASSWORD, BACKEND_PASSWORD_OBSERVER]);
+	$_SESSION['readonly'] = ($_POST['klucz'] == BACKEND_PASSWORD_OBSERVER);
 }
 
 if(!isset($_SESSION['klucz'])){?>
@@ -21,7 +22,7 @@ cgHead("Edytor");
 $_SESSION['insert'] = false;
 
 #####TRYB EDYCJI – podanie danych#####
-if(isset($_POST['psub'])){
+if(isset($_POST['psub']) && !$_SESSION['readonly']){
 	$_POST['ptytuł'] = str_replace("'", "\'", $_POST['ptytuł']);
 	if(isset($_GET['id'])){
 		$q = "UPDATE piosnki SET ";
@@ -71,7 +72,7 @@ if(isset($_POST['psub'])){
 		$_SESSION['insert'] = "added";
 	}
 }
-if(isset($_POST['perase2'])){
+if(isset($_POST['perase2']) && !$_SESSION['readonly']){
 	$q = "DELETE FROM piosnki WHERE id=".$_GET['id'];
 	$conn->query($q)
 		or die($conn->error);
@@ -144,14 +145,14 @@ if($_SESSION['insert'] != false){
 	switch($_SESSION['insert']){
 		case "added":
 			print "lime'>Dodano! ";
-			print "<script>setTimeout(function(){ window.location.href = 'http://cg.audio-z.com.pl/lyricseditor_create.php?id=".$a['id']."&phase=1'; }, 1000);</script>";
+			print "<script>setTimeout(function(){ window.location.href = 'http://cg.audio-z.wpww.pl/lyricseditor_create.php?id=".$a['id']."&phase=1'; }, 1000);</script>";
 			break;
 		case "changed":
 			print "cyan'>Zmieniono! ";
 			break;
 		case "removed":
 			print "red'>Usunięto! ";
-			print "<script>setTimeout(function(){ window.location.href = 'http://cg.audio-z.com.pl'; }, 1000);</script>";
+			print "<script>setTimeout(function(){ window.location.href = 'http://cg.audio-z.wpww.pl'; }, 1000);</script>";
 	}
 	print "</h3><p style='font-style: italic; color: gray;'>($q)</p>";
 }
